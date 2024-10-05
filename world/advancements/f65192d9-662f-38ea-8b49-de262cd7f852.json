@@ -1,0 +1,3152 @@
+{
+  "blazeandcave:monsters/pupil_poppers": {
+    "criteria": {
+      "pupil_poppers": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/big_spender": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "leather_boots": "2022-10-26 17:57:47 +0800",
+      "ender_eye": "2022-10-26 17:57:47 +0800",
+      "wheat": "2022-10-26 17:57:47 +0800",
+      "saddle": "2022-10-26 17:57:47 +0800",
+      "emerald": "2022-10-26 17:57:47 +0800",
+      "dark_oak_boat": "2022-10-26 17:57:47 +0800",
+      "potion": "2022-10-26 17:57:47 +0800",
+      "gold_nugget": "2022-10-26 17:57:47 +0800",
+      "golden_horse_armor": "2022-10-26 17:57:47 +0800",
+      "firework_rocket": "2022-10-26 17:57:47 +0800",
+      "leather": "2022-10-26 17:57:47 +0800",
+      "elytra": "2022-10-26 17:57:47 +0800",
+      "oak_boat": "2022-10-26 17:57:47 +0800",
+      "nautilus_shell": "2022-10-26 17:57:47 +0800",
+      "iron_ingot": "2022-10-26 17:57:47 +0800",
+      "lapis_lazuli": "2022-10-26 17:57:47 +0800",
+      "golden_apple": "2022-10-26 17:57:47 +0800",
+      "shulker_shell": "2022-10-26 17:57:47 +0800",
+      "porkchop": "2022-10-26 17:57:47 +0800",
+      "enchanted_book": "2022-10-26 17:57:47 +0800",
+      "bow": "2022-10-26 17:57:47 +0800",
+      "pufferfish": "2022-10-26 17:57:47 +0800",
+      "diamond": "2022-10-26 17:57:47 +0800",
+      "carrot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/olympic_gold_medallist": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-10-11 12:46:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/marathon": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/diamond_miner": {
+    "criteria": {
+      "diamond": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:building/professor_oak": {
+    "criteria": {
+      "oak_boat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:end/off_with_his_head": {
+    "criteria": {
+      "chorus_fruit": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/bulldozer": {
+    "criteria": {
+      "mine_nether_gold_ore": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/branch2_end": {
+    "criteria": {
+      "root": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/the_parrots_and_the_bats": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:end/portable_storage": {
+    "criteria": {
+      "shulker_box": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/end_milestone": {
+    "criteria": {
+      "off_with_his_head": "2022-10-26 17:57:47 +0800",
+      "rocketman": "2022-10-26 17:57:47 +0800",
+      "sky_high": "2022-10-26 17:57:47 +0800",
+      "what_for": "2022-10-26 17:57:47 +0800",
+      "skys_the_limit": "2022-10-26 17:57:47 +0800",
+      "end_bricks": "2022-10-26 17:57:48 +0800",
+      "uh_houston_we_have_a_problem": "2022-10-26 17:57:47 +0800",
+      "is_it_a_plane": "2022-10-26 17:57:47 +0800",
+      "dogfight": "2022-10-26 17:57:47 +0800",
+      "the_beginning": "2022-10-26 17:57:47 +0800",
+      "ring_of_the_end": "2022-10-26 17:57:48 +0800",
+      "dragon_vs_dragon": "2022-10-26 17:57:47 +0800",
+      "void_walker": "2022-10-26 17:57:48 +0800",
+      "free_the_end": "2022-10-26 17:57:47 +0800",
+      "purpurfect": "2022-10-26 17:57:48 +0800",
+      "dragon_shield": "2022-10-26 17:57:47 +0800",
+      "root": "2022-10-26 17:57:47 +0800",
+      "the_point_of_no_return": "2022-10-26 17:57:47 +0800",
+      "cow_jumped_over_the_moon": "2022-10-26 17:57:48 +0800",
+      "anti_gravity_generator": "2022-10-26 17:57:47 +0800",
+      "a_wizards_breakfast": "2022-10-26 17:57:48 +0800",
+      "shouldnt_my_shield_levitate_too": "2022-10-26 17:57:47 +0800",
+      "no_dont_let_me_leave_murph": "2022-10-26 17:57:47 +0800",
+      "shulker_breaker": "2022-10-26 17:57:48 +0800",
+      "the_actual_end": "2022-10-26 17:57:47 +0800",
+      "somewhere_over_the_rainbow": "2022-10-26 17:57:47 +0800",
+      "organizational_wizard": "2022-10-26 17:57:47 +0800",
+      "event_horizon": "2022-10-26 17:57:48 +0800",
+      "remote_getaway": "2022-10-26 17:57:47 +0800",
+      "some_breakthrough": "2022-10-26 17:57:47 +0800",
+      "in_your_face_neil_armstrong": "2022-10-26 17:57:47 +0800",
+      "extrabiologist": "2022-10-26 17:57:47 +0800",
+      "the_city_at_the_end_of_the_game": "2022-10-26 17:57:47 +0800",
+      "the_next_generation": "2022-10-26 17:57:47 +0800",
+      "the_end_again": "2022-10-26 17:57:47 +0800",
+      "im_coming_back_murph": "2022-10-26 17:57:47 +0800",
+      "the_start_of_something": "2022-10-26 17:57:48 +0800",
+      "portable_storage": "2022-10-26 17:57:47 +0800",
+      "getting_chorus": "2022-10-26 17:57:47 +0800",
+      "for_mother_clarence": "2022-10-26 17:57:48 +0800",
+      "great_view_from_up_here": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/root": {
+    "criteria": {
+      "diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/the_haggler": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/unbreakable": {
+    "criteria": {
+      "mending": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-06-19 15:49:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/frequent_flyer": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/taking_it_in_stride": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/flower_power": {
+    "criteria": {
+      "poppy": "2022-10-26 17:57:47 +0800",
+      "sunflower": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/mining_milestone": {
+    "criteria": {
+      "a_shiny_treat": "2022-10-26 17:57:48 +0800",
+      "pixel_perfect": "2022-10-26 17:57:47 +0800",
+      "coal_miner": "2022-10-26 17:57:47 +0800",
+      "living_like_kings": "2022-10-26 17:57:47 +0800",
+      "rock_bottom": "2022-10-26 17:57:47 +0800",
+      "lichen_subscribe": "2022-10-26 17:57:47 +0800",
+      "enchanter": "2022-10-26 17:57:48 +0800",
+      "gi_geode": "2022-10-26 17:57:48 +0800",
+      "deep_slate_nine": "2022-10-26 17:57:48 +0800",
+      "smokin_hot": "2022-10-26 17:57:48 +0800",
+      "master_gold_miner": "2022-10-26 17:57:48 +0800",
+      "even_moar_tools": "2022-10-26 17:57:48 +0800",
+      "bling_bling_gone": "2022-10-26 17:57:48 +0800",
+      "dont_come_a_copper": "2022-10-26 17:57:47 +0800",
+      "thats_the_point": "2022-10-26 17:57:47 +0800",
+      "suit_up": "2022-10-26 17:57:48 +0800",
+      "the_way_to_spawn": "2022-10-26 17:57:47 +0800",
+      "stone_age": "2022-10-26 17:57:47 +0800",
+      "lapis_lazuli_miner": "2022-10-26 17:57:47 +0800",
+      "isnt_it_iron_pick": "2022-10-26 17:57:48 +0800",
+      "bulldozer": "2022-10-26 17:57:47 +0800",
+      "gold_rush": "2022-10-26 17:57:47 +0800",
+      "getting_an_upgrade": "2022-10-26 17:57:47 +0800",
+      "iron_miner": "2022-10-26 17:57:47 +0800",
+      "we_need_to_go_deeper": "2022-10-26 17:57:48 +0800",
+      "copper_miner": "2022-10-26 17:57:47 +0800",
+      "dripstone_drop": "2022-10-26 17:57:47 +0800",
+      "fossil_fuel": "2022-10-26 17:57:47 +0800",
+      "iconic_merchandising_prop": "2022-10-26 17:57:47 +0800",
+      "my_work_here_is_done": "2022-10-26 17:57:47 +0800",
+      "wax_on": "2022-10-26 17:57:47 +0800",
+      "master_copper_miner": "2022-10-26 17:57:47 +0800",
+      "the_mistake": "2022-10-26 17:57:47 +0800",
+      "particle_fan": "2022-10-26 17:57:47 +0800",
+      "diam_oh_wait_no": "2022-10-26 17:57:47 +0800",
+      "mineral_collection": "2022-10-26 17:57:47 +0800",
+      "not_chicken_mcnuggets": "2022-10-26 17:57:47 +0800",
+      "bottom_to_top": "2022-10-26 17:57:47 +0800",
+      "bonfire_night": "2022-10-26 17:57:48 +0800",
+      "called_shot": "2022-10-26 17:57:47 +0800",
+      "diamond_miner": "2022-10-26 17:57:48 +0800",
+      "sly_copper_the_copper_heist": "2022-10-26 17:57:47 +0800",
+      "diamonds": "2022-10-26 17:57:48 +0800",
+      "eeuuwww": "2022-10-26 17:57:47 +0800",
+      "steals_on_wheels": "2022-10-26 17:57:48 +0800",
+      "leaflet_drop": "2022-10-26 17:57:47 +0800",
+      "moar_broken_tools": "2022-10-26 17:57:48 +0800",
+      "moss_maker": "2022-10-26 17:57:47 +0800",
+      "gold_mine": "2022-10-26 17:57:47 +0800",
+      "strike_a_light": "2022-10-26 17:57:47 +0800",
+      "caves_and_cliffs": "2022-10-26 17:57:48 +0800",
+      "cover_me_with_diamonds": "2022-10-26 17:57:48 +0800",
+      "galileo_figaro": "2022-10-26 17:57:47 +0800",
+      "master_iron_miner": "2022-10-26 17:57:48 +0800",
+      "meet_the_flintstones": "2022-10-26 17:57:48 +0800",
+      "blackout": "2022-10-26 17:57:48 +0800",
+      "diamond_clad": "2022-10-26 17:57:47 +0800",
+      "rest_in_pickaxes": "2022-10-26 17:57:48 +0800",
+      "moar_tools": "2022-10-26 17:57:47 +0800",
+      "gold_miner": "2022-10-26 17:57:48 +0800",
+      "ice_bucket_challenge": "2022-10-26 17:57:47 +0800",
+      "good_for_your_bones": "2022-10-26 17:57:48 +0800",
+      "weve_broken_our_last_shovel": "2022-10-26 17:57:48 +0800",
+      "redstone_miner": "2022-10-26 17:57:48 +0800",
+      "master_diamond_miner": "2022-10-26 17:57:47 +0800",
+      "tuff_stuff": "2022-10-26 17:57:48 +0800",
+      "iggy": "2022-10-26 17:57:48 +0800",
+      "the_statue_of_liberty": "2022-10-26 17:57:47 +0800",
+      "budget_channeling": "2022-10-26 17:57:48 +0800",
+      "flint_miner": "2022-10-26 17:57:48 +0800",
+      "obsidian_miner": "2022-10-26 17:57:47 +0800",
+      "aww_it_broke": "2022-10-26 17:57:47 +0800",
+      "youll_never_take_me_alive_copper": "2022-10-26 17:57:48 +0800",
+      "whats_the_time_mr_wolf": "2022-10-26 17:57:47 +0800",
+      "chestful_of_cobblestone": "2022-10-26 17:57:47 +0800",
+      "lucky_break": "2022-10-26 17:57:47 +0800",
+      "acquire_hardware": "2022-10-26 17:57:47 +0800",
+      "dungeons_and_spawners": "2022-10-26 17:57:48 +0800",
+      "diamonds_to_you": "2022-10-26 17:57:47 +0800",
+      "hot_topic": "2022-10-26 17:57:47 +0800",
+      "emerald_miner": "2022-10-26 17:57:48 +0800",
+      "this_dirt_is_dirtier": "2022-10-26 17:57:47 +0800",
+      "amethyst_miner": "2022-10-26 17:57:48 +0800",
+      "wax_off": "2022-10-26 17:57:47 +0800",
+      "seeing_red": "2022-10-26 17:57:47 +0800",
+      "this_is_mine_now": "2022-10-26 17:57:48 +0800",
+      "root": "2022-10-26 17:57:47 +0800",
+      "surge_protector": "2022-10-26 17:57:48 +0800",
+      "heart_of_darkness": "2022-10-26 17:57:48 +0800",
+      "spelunker": "2022-10-26 17:57:47 +0800",
+      "nananananananana": "2022-10-26 17:57:47 +0800",
+      "iron_man": "2022-10-26 17:57:47 +0800",
+      "hot_stuff": "2022-10-26 17:57:47 +0800",
+      "where_are_all_your_clothes": "2022-10-26 17:57:47 +0800",
+      "mr_bean": "2022-10-26 17:57:47 +0800",
+      "master_coal_miner": "2022-10-26 17:57:48 +0800",
+      "oresome": "2022-10-26 17:57:48 +0800",
+      "renewable_energy": "2022-10-26 17:57:47 +0800",
+      "stabcraft": "2022-10-26 17:57:47 +0800",
+      "lush_hour": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/beacon_overlord": {
+    "criteria": {
+      "beacon_overlord": "2022-10-26 17:57:49 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/level_up": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/challenges_milestone": {
+    "criteria": {
+      "hearts_of_the_stack": "2022-10-26 17:57:47 +0800",
+      "im_in_space": "2022-10-26 17:57:48 +0800",
+      "the_world_is_ending": "2022-10-26 17:57:48 +0800",
+      "immortal": "2022-10-26 17:57:47 +0800",
+      "zombie_apocalypse": "2022-10-26 17:57:47 +0800",
+      "how_did_we_get_here": "2022-10-26 17:57:47 +0800",
+      "potion_master": "2022-10-26 17:57:48 +0800",
+      "were_in_the_endgame_now": "2022-10-26 17:57:47 +0800",
+      "telescopic": "2022-10-26 17:57:48 +0800",
+      "dragon_army": "2022-10-26 17:57:48 +0800",
+      "dragon_vs_wither_the_pre_sequel": "2022-10-26 17:57:47 +0800",
+      "the_devils_distance": "2022-10-26 17:57:47 +0800",
+      "i_am_loot": "2022-10-26 17:57:48 +0800",
+      "riddle_me_this": "2022-10-26 17:57:47 +0800",
+      "biological_warfare": "2022-10-26 17:57:47 +0800",
+      "ultimate_enchanter": "2022-10-26 17:57:47 +0800",
+      "nuclear_fusion": "2022-10-26 17:57:47 +0800",
+      "constellation": "2022-10-26 17:57:47 +0800",
+      "stack_all_the_blocks": "2022-10-26 17:57:48 +0800",
+      "root": "2022-10-26 17:57:47 +0800",
+      "warlock": "2022-10-26 17:57:47 +0800",
+      "stockbroker": "2022-10-26 17:57:48 +0800",
+      "dragon_vs_dragon_ii_electric_boogaloo": "2022-10-26 17:57:48 +0800",
+      "creepergeddon": "2022-10-26 17:57:47 +0800",
+      "death_from_all": "2022-10-26 17:57:48 +0800",
+      "rise_of_the_skeletons": "2022-10-26 17:57:47 +0800",
+      "endergeddon": "2022-10-26 17:57:47 +0800",
+      "all_the_items": "2022-10-26 17:57:48 +0800",
+      "all_the_blocks": "2022-10-26 17:57:47 +0800",
+      "stack_all_the_items": "2022-10-26 17:57:47 +0800",
+      "explorer_of_worlds": "2022-10-26 17:57:47 +0800",
+      "a_million_blocks_away": "2022-10-26 17:57:47 +0800",
+      "abyss_lord": "2022-10-26 17:57:48 +0800",
+      "global_vaccination": "2022-10-26 17:57:47 +0800",
+      "the_perfect_run": "2022-10-26 17:57:47 +0800",
+      "highway_to_hell": "2022-10-26 17:57:48 +0800",
+      "ad_astra": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/branch4_end": {
+    "criteria": {
+      "root": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/hopping_mad": {
+    "criteria": {
+      "jump_boost": "2022-10-26 17:57:49 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:building/professor_dark_oak": {
+    "criteria": {
+      "dark_oak_boat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/laps_in_the_pool": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/nether_milestone": {
+    "criteria": {
+      "stem_research": "2022-10-26 17:57:48 +0800",
+      "anchorman": "2022-10-26 17:57:48 +0800",
+      "inception": "2022-10-26 17:57:47 +0800",
+      "dont_blink": "2022-10-26 17:57:47 +0800",
+      "magma_cube_squisher": "2022-10-26 17:57:48 +0800",
+      "instant_mining": "2022-10-26 17:57:47 +0800",
+      "enders_chest": "2022-10-26 17:57:47 +0800",
+      "legend_of_hell_chicken_riders": "2022-10-26 17:57:47 +0800",
+      "gilty": "2022-10-26 17:57:48 +0800",
+      "polar_opposites": "2022-10-26 17:57:47 +0800",
+      "cultural_misunderstandings": "2022-10-26 17:57:47 +0800",
+      "local_brewery": "2022-10-26 17:57:47 +0800",
+      "hell_botanist": "2022-10-26 17:57:48 +0800",
+      "wub_wub_wub": "2022-10-26 17:57:47 +0800",
+      "blaze_extinguisher": "2022-10-26 17:57:48 +0800",
+      "the_nethers_shield": "2022-10-26 17:57:47 +0800",
+      "nugget_in_a_biscuit": "2022-10-26 17:57:47 +0800",
+      "limbo_walker": "2022-10-26 17:57:47 +0800",
+      "spreading_corruption": "2022-10-26 17:57:47 +0800",
+      "netherite_miner": "2022-10-26 17:57:48 +0800",
+      "the_descent": "2022-10-26 17:57:47 +0800",
+      "the_hunt_begins": "2022-10-26 17:57:47 +0800",
+      "war_pigs": "2022-10-26 17:57:47 +0800",
+      "a_knight_to_nether_forget": "2022-10-26 17:57:48 +0800",
+      "fool_me_twice": "2022-10-26 17:57:47 +0800",
+      "into_fire": "2022-10-26 17:57:47 +0800",
+      "who_is_cutting_onions": "2022-10-26 17:57:47 +0800",
+      "bring_down_the_beast": "2022-10-26 17:57:48 +0800",
+      "astrobrute": "2022-10-26 17:57:48 +0800",
+      "holy_scrap": "2022-10-26 17:57:47 +0800",
+      "oh_shiny": "2022-10-26 17:57:47 +0800",
+      "roadhog": "2022-10-26 17:57:48 +0800",
+      "im_in_lava_with_you": "2022-10-26 17:57:48 +0800",
+      "spooky_scary_skeleton": "2022-10-26 17:57:47 +0800",
+      "country_lode_take_me_home": "2022-10-26 17:57:47 +0800",
+      "this_boat_has_legs": "2022-10-26 17:57:48 +0800",
+      "soul_runnings": "2022-10-26 17:57:48 +0800",
+      "nether_rock_collection": "2022-10-26 17:57:47 +0800",
+      "decaying_beauty": "2022-10-26 17:57:47 +0800",
+      "welcome_to_warp_zone": "2022-10-26 17:57:47 +0800",
+      "giddy_up": "2022-10-26 17:57:48 +0800",
+      "quicksand": "2022-10-26 17:57:47 +0800",
+      "twisted": "2022-10-26 17:57:48 +0800",
+      "from_whence_it_came": "2022-10-26 17:57:47 +0800",
+      "i_am_root": "2022-10-26 17:57:47 +0800",
+      "high_temperature_fluid_monster": "2022-10-26 17:57:47 +0800",
+      "hot_reels": "2022-10-26 17:57:47 +0800",
+      "burnt_right_into_your_soul": "2022-10-26 17:57:48 +0800",
+      "ghast_slayer": "2022-10-26 17:57:47 +0800",
+      "nether_say_die": "2022-10-26 17:57:47 +0800",
+      "et_tu_brute": "2022-10-26 17:57:47 +0800",
+      "subspace_bubble": "2022-10-26 17:57:47 +0800",
+      "is_it_a_balloon": "2022-10-26 17:57:47 +0800",
+      "ludicrous_speed": "2022-10-26 17:57:47 +0800",
+      "the_struggle_nether_ends": "2022-10-26 17:57:48 +0800",
+      "moar_upgraded_tools": "2022-10-26 17:57:48 +0800",
+      "beaconator": "2022-10-26 17:57:48 +0800",
+      "the_end": "2022-10-26 17:57:47 +0800",
+      "bring_home_the_beacon": "2022-10-26 17:57:47 +0800",
+      "electrifying_alliance": "2022-10-26 17:57:48 +0800",
+      "brute_force": "2022-10-26 17:57:47 +0800",
+      "feels_like_home": "2022-10-26 17:57:47 +0800",
+      "the_tribal_snouts": "2022-10-26 17:57:47 +0800",
+      "time_to_fire_back": "2022-10-26 17:57:48 +0800",
+      "giant_floating_jellyfish": "2022-10-26 17:57:48 +0800",
+      "withering_heights": "2022-10-26 17:57:47 +0800",
+      "whole_hog": "2022-10-26 17:57:48 +0800",
+      "get_a_lode_of_this": "2022-10-26 17:57:47 +0800",
+      "eye_spy": "2022-10-26 17:57:47 +0800",
+      "this_ones_mine": "2022-10-26 17:57:48 +0800",
+      "glowstone_miner": "2022-10-26 17:57:48 +0800",
+      "hot_spring": "2022-10-26 17:57:47 +0800",
+      "jenga": "2022-10-26 17:57:48 +0800",
+      "gilded_miner": "2022-10-26 17:57:47 +0800",
+      "diamonds_are_not_forever": "2022-10-26 17:57:47 +0800",
+      "hot_tourist_destination": "2022-10-26 17:57:48 +0800",
+      "zork_chop": "2022-10-26 17:57:47 +0800",
+      "a_soul_for_a_soul": "2022-10-26 17:57:47 +0800",
+      "return_to_sender": "2022-10-26 17:57:47 +0800",
+      "when_piglins_fly": "2022-10-26 17:57:48 +0800",
+      "those_were_the_days": "2022-10-26 17:57:47 +0800",
+      "we_got_a_live_one": "2022-10-26 17:57:48 +0800",
+      "lodes_of_applications": "2022-10-26 17:57:48 +0800",
+      "stepping_on_legos": "2022-10-26 17:57:47 +0800",
+      "what_a_fungi": "2022-10-26 17:57:48 +0800",
+      "a_terrible_fortress": "2022-10-26 17:57:48 +0800",
+      "seeing_stars": "2022-10-26 17:57:47 +0800",
+      "root": "2022-10-26 17:57:47 +0800",
+      "a_piglins_best_friend": "2022-10-26 17:57:47 +0800",
+      "when_hoglins_breed": "2022-10-26 17:57:47 +0800",
+      "glows_in_the_dark": "2022-10-26 17:57:47 +0800",
+      "bobbleheads": "2022-10-26 17:57:48 +0800",
+      "what_about_corruption_planks": "2022-10-26 17:57:47 +0800",
+      "beacon_overlord": "2022-10-26 17:57:47 +0800",
+      "dark_ages": "2022-10-26 17:57:48 +0800",
+      "not_quite_nine_lives": "2022-10-26 17:57:48 +0800",
+      "basis_of_brewing": "2022-10-26 17:57:47 +0800",
+      "hells_bells": "2022-10-26 17:57:47 +0800",
+      "uneasy_alliance": "2022-10-26 17:57:48 +0800",
+      "master_netherite_miner": "2022-10-26 17:57:47 +0800",
+      "let_me_out": "2022-10-26 17:57:47 +0800",
+      "ancient_restoration": "2022-10-26 17:57:47 +0800",
+      "fire_blast_shield": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/must_be_your_birthday": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/cow_tipper": {
+    "criteria": {
+      "leather": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/biomes_milestone": {
+    "criteria": {
+      "thick_ice": "2022-10-26 17:57:47 +0800",
+      "echolocation": "2022-10-26 17:57:47 +0800",
+      "captain_america": "2022-10-26 17:57:48 +0800",
+      "high_feet": "2022-10-26 17:57:47 +0800",
+      "zoologist": "2022-10-26 17:57:47 +0800",
+      "the_mighty_jungle": "2022-10-26 17:57:47 +0800",
+      "kung_fu_panda": "2022-10-26 17:57:47 +0800",
+      "lion_hunter": "2022-10-26 17:57:48 +0800",
+      "adventuring_time": "2022-10-26 17:57:47 +0800",
+      "tarzan": "2022-10-26 17:57:47 +0800",
+      "thin_ice": "2022-10-26 17:57:47 +0800",
+      "everybody_loves_ice": "2022-10-26 17:57:47 +0800",
+      "powder_full": "2022-10-26 17:57:47 +0800",
+      "atlantis": "2022-10-26 17:57:47 +0800",
+      "so_long_and_thanks_for_all_the_fish": "2022-10-26 17:57:47 +0800",
+      "one_with_the_forest": "2022-10-26 17:57:48 +0800",
+      "theres_a_zombie_on_the_lawn": "2022-10-26 17:57:48 +0800",
+      "this_snow_is_snowier": "2022-10-26 17:57:47 +0800",
+      "bamboom": "2022-10-26 17:57:47 +0800",
+      "voyage": "2022-10-26 17:57:47 +0800",
+      "kilometre_walk": "2022-10-26 17:57:47 +0800",
+      "just_keep_swimming": "2022-10-26 17:57:48 +0800",
+      "titanic": "2022-10-26 17:57:47 +0800",
+      "no_reefing": "2022-10-26 17:57:48 +0800",
+      "wet_feet": "2022-10-26 17:57:47 +0800",
+      "warm_feet": "2022-10-26 17:57:48 +0800",
+      "sleep_with_the_fishes": "2022-10-26 17:57:48 +0800",
+      "boatception": "2022-10-26 17:57:48 +0800",
+      "ten_thousand_blocks": "2022-10-26 17:57:48 +0800",
+      "x_marks_the_spot": "2022-10-26 17:57:47 +0800",
+      "construction_worker": "2022-10-26 17:57:48 +0800",
+      "qinling": "2022-10-26 17:57:47 +0800",
+      "were_going_on_a_bear_hunt": "2022-10-26 17:57:48 +0800",
+      "pandamonium": "2022-10-26 17:57:47 +0800",
+      "smooth_operator": "2022-10-26 17:57:47 +0800",
+      "in_a_pickle": "2022-10-26 17:57:48 +0800",
+      "spike_ice": "2022-10-26 17:57:47 +0800",
+      "overgrown": "2022-10-26 17:57:47 +0800",
+      "simba": "2022-10-26 17:57:48 +0800",
+      "root": "2022-10-26 17:57:48 +0800",
+      "just_a_sample": "2022-10-26 17:57:47 +0800",
+      "free_diver": "2022-10-26 17:57:47 +0800",
+      "the_sea_calls_you": "2022-10-26 17:57:47 +0800",
+      "cold_feet": "2022-10-26 17:57:48 +0800",
+      "flower_power": "2022-10-26 17:57:47 +0800",
+      "for_you_my_sweet": "2022-10-26 17:57:47 +0800",
+      "pushed_around": "2022-10-26 17:57:48 +0800",
+      "boaty_mcboatface": "2022-10-26 17:57:47 +0800",
+      "the_great_blocky_reef": "2022-10-26 17:57:47 +0800",
+      "enchanted_forest": "2022-10-26 17:57:47 +0800",
+      "dive_bomb": "2022-10-26 17:57:47 +0800",
+      "barbearian": "2022-10-26 17:57:48 +0800",
+      "light_as_a_rabbit": "2022-10-26 17:57:47 +0800",
+      "dolphin_dasher": "2022-10-26 17:57:47 +0800",
+      "ahoy": "2022-10-26 17:57:47 +0800",
+      "moskstraumen": "2022-10-26 17:57:47 +0800",
+      "top_of_the_world": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/who_needs_cars": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/pirate_captain": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/diam_oh_wait_no": {
+    "criteria": {
+      "coal": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/root": {
+    "criteria": {
+      "enter_return_portal": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/branch6_end": {
+    "criteria": {
+      "root": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/complete_enchanter": {
+    "criteria": {
+      "unbreaking": "2022-10-26 17:57:47 +0800",
+      "mending": "2022-10-26 17:57:47 +0800",
+      "sharpness_book": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/kill_or_be_killed": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/sheriff_firearm": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/overlevelling": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/xp_grinder": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/stonks": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/65_hours_of_walking": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/luxury_cruise": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/a_much_more_doable_challenge": {
+    "criteria": {
+      "strength": "2022-10-26 17:57:49 +0800",
+      "regeneration": "2022-10-26 17:57:49 +0800",
+      "speed": "2022-10-26 17:57:49 +0800",
+      "haste": "2022-10-26 17:57:49 +0800",
+      "jump_boost": "2022-10-26 17:57:49 +0800",
+      "resistance": "2022-10-26 17:57:49 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/enchanting_milestone": {
+    "criteria": {
+      "bane_of_one_shotting_spiders": "2022-10-26 17:57:48 +0800",
+      "needle_sharp": "2022-10-26 17:57:47 +0800",
+      "armor_for_the_masses": "2022-10-26 17:57:47 +0800",
+      "fiery": "2022-10-26 17:57:48 +0800",
+      "knocking_your_socks_off": "2022-10-26 17:57:47 +0800",
+      "fortunate_son": "2022-10-26 17:57:47 +0800",
+      "master_farmer": "2022-10-26 17:57:47 +0800",
+      "to_infinity_and_beyond": "2022-10-26 17:57:47 +0800",
+      "master_enchanter": "2022-10-26 17:57:47 +0800",
+      "master_miner": "2022-10-26 17:57:48 +0800",
+      "gotta_go_fast": "2022-10-26 17:57:47 +0800",
+      "unbreakable": "2022-10-26 17:57:47 +0800",
+      "this_name_sounds_cooler": "2022-10-26 17:57:47 +0800",
+      "very_very_frightening": "2022-10-26 17:57:48 +0800",
+      "master_tridenteer": "2022-10-26 17:57:47 +0800",
+      "overkill": "2022-10-26 17:57:47 +0800",
+      "master_knight": "2022-10-26 17:57:47 +0800",
+      "master_sniper": "2022-10-26 17:57:48 +0800",
+      "shotbow": "2022-10-26 17:57:48 +0800",
+      "over_overkill": "2022-10-26 17:57:47 +0800",
+      "master_axeman": "2022-10-26 17:57:47 +0800",
+      "master_armorer": "2022-10-26 17:57:47 +0800",
+      "zeus": "2022-10-26 17:57:48 +0800",
+      "heavy_metal": "2022-10-26 17:57:48 +0800",
+      "curses": "2022-10-26 17:57:47 +0800",
+      "scuba_gear": "2022-10-26 17:57:47 +0800",
+      "newtons_flaming_laser_sword": "2022-10-26 17:57:47 +0800",
+      "bow_down_to_me": "2022-10-26 17:57:47 +0800",
+      "do_a_barrel_roll": "2022-10-26 17:57:47 +0800",
+      "master_arbalist": "2022-10-26 17:57:48 +0800",
+      "a_rather_pointy_fence_post": "2022-10-26 17:57:47 +0800",
+      "magical_stockpile": "2022-10-26 17:57:47 +0800",
+      "pick_like_silk": "2022-10-26 17:57:47 +0800",
+      "ill_be_back": "2022-10-26 17:57:48 +0800",
+      "machine_bow": "2022-10-26 17:57:48 +0800",
+      "root": "2022-10-26 17:57:47 +0800",
+      "master_fisher": "2022-10-26 17:57:47 +0800",
+      "master_digger": "2022-10-26 17:57:47 +0800",
+      "librarian": "2022-10-26 17:57:48 +0800",
+      "super_efficient": "2022-10-26 17:57:48 +0800",
+      "arbalistic": "2022-10-26 17:57:47 +0800",
+      "baron_of_blacksmiths": "2022-10-26 17:57:48 +0800",
+      "boomerang": "2022-10-26 17:57:47 +0800",
+      "like_a_cat": "2022-10-26 17:57:47 +0800",
+      "complete_enchanter": "2022-10-26 17:57:47 +0800",
+      "handmade_blinding": "2022-10-26 17:57:47 +0800",
+      "god_of_thunder": "2022-10-26 17:57:47 +0800",
+      "undead_slayer": "2022-10-26 17:57:47 +0800",
+      "let_it_go": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/this_ride_is_lit_yo": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/monsters_milestone": {
+    "criteria": {
+      "paleontologist": "2022-10-26 17:57:47 +0800",
+      "termite_control": "2022-10-26 17:57:48 +0800",
+      "spider_skeleton": "2022-10-26 17:57:47 +0800",
+      "spider_smasher": "2022-10-26 17:57:47 +0800",
+      "dungeon_crawler": "2022-10-26 17:57:47 +0800",
+      "ender_worm": "2022-10-26 17:57:47 +0800",
+      "hell_hunter": "2022-10-26 17:57:48 +0800",
+      "still_talking": "2022-10-26 17:57:48 +0800",
+      "skeleton_smiter": "2022-10-26 17:57:47 +0800",
+      "mollusc_man": "2022-10-26 17:57:47 +0800",
+      "night_runner": "2022-10-26 17:57:47 +0800",
+      "aww_man": "2022-10-26 17:57:48 +0800",
+      "trampoline": "2022-10-26 17:57:48 +0800",
+      "the_ghastly_eyes": "2022-10-26 17:57:47 +0800",
+      "not_today_thank_you": "2022-10-26 17:57:47 +0800",
+      "the_phantom_menace": "2022-10-26 17:57:47 +0800",
+      "bone_to_party": "2022-10-26 17:57:47 +0800",
+      "spooky_skeleton": "2022-10-26 17:57:47 +0800",
+      "slime_squisher": "2022-10-26 17:57:47 +0800",
+      "a_watery_grave": "2022-10-26 17:57:48 +0800",
+      "plane_walker": "2022-10-26 17:57:47 +0800",
+      "creeper_killer": "2022-10-26 17:57:47 +0800",
+      "iskallium_collector": "2022-10-26 17:57:47 +0800",
+      "spooky_skulls": "2022-10-26 17:57:48 +0800",
+      "ew_ew_ew": "2022-10-26 17:57:47 +0800",
+      "dead_really_dont_die": "2022-10-26 17:57:47 +0800",
+      "trick_or_treat": "2022-10-26 17:57:47 +0800",
+      "two_birds_one_arrow": "2022-10-26 17:57:47 +0800",
+      "poisonous_ew": "2022-10-26 17:57:47 +0800",
+      "tridented_shield": "2022-10-26 17:57:48 +0800",
+      "baby_baby_baby_noo": "2022-10-26 17:57:47 +0800",
+      "controlled_detonation": "2022-10-26 17:57:47 +0800",
+      "boned": "2022-10-26 17:57:47 +0800",
+      "miracle_drink": "2022-10-26 17:57:47 +0800",
+      "frosty": "2022-10-26 17:57:48 +0800",
+      "blast_shield": "2022-10-26 17:57:47 +0800",
+      "ricochet_swoop": "2022-10-26 17:57:48 +0800",
+      "dead_dont_die": "2022-10-26 17:57:48 +0800",
+      "gelatinous_cube": "2022-10-26 17:57:47 +0800",
+      "iron_belly": "2022-10-26 17:57:47 +0800",
+      "phantom_slayer": "2022-10-26 17:57:48 +0800",
+      "anti_air": "2022-10-26 17:57:47 +0800",
+      "impossible": "2022-10-26 17:57:47 +0800",
+      "custom_boss_fight": "2022-10-26 17:57:47 +0800",
+      "melting": "2022-10-26 17:57:48 +0800",
+      "because_im_aquaman": "2022-10-26 17:57:47 +0800",
+      "what_a_creep": "2022-10-26 17:57:47 +0800",
+      "well_handle_this": "2022-10-26 17:57:48 +0800",
+      "basketblock_championship": "2022-10-26 17:57:47 +0800",
+      "desert_nomad": "2022-10-26 17:57:48 +0800",
+      "pupil_poppers": "2022-10-26 17:57:48 +0800",
+      "root": "2022-10-26 17:57:47 +0800",
+      "tele_morph": "2022-10-26 17:57:48 +0800",
+      "camouflage": "2022-10-26 17:57:47 +0800",
+      "keep_your_distance": "2022-10-26 17:57:47 +0800",
+      "the_ender_of_ender": "2022-10-26 17:57:47 +0800",
+      "zombie_slayer": "2022-10-26 17:57:47 +0800",
+      "enderman_destroyer": "2022-10-26 17:57:47 +0800",
+      "monsters_hunted": "2022-10-26 17:57:47 +0800",
+      "taste_of_your_own_medicine": "2022-10-26 17:57:47 +0800",
+      "monster_hunter": "2022-10-26 17:57:48 +0800",
+      "void_ender": "2022-10-26 17:57:47 +0800",
+      "captain_etho": "2022-10-26 17:57:48 +0800",
+      "the_undead_cavalry": "2022-10-26 17:57:48 +0800",
+      "poultry_boy": "2022-10-26 17:57:47 +0800",
+      "creepy_heads": "2022-10-26 17:57:47 +0800",
+      "freezing": "2022-10-26 17:57:48 +0800",
+      "there_has_to_be_another_way": "2022-10-26 17:57:47 +0800",
+      "witch": "2022-10-26 17:57:47 +0800",
+      "ooh_baby": "2022-10-26 17:57:48 +0800",
+      "family_reunion": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/your_legs_must_be_tired": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/adventure_milestone": {
+    "criteria": {
+      "mapmaker": "2022-10-26 17:57:47 +0800",
+      "village_settler": "2022-10-26 17:57:47 +0800",
+      "hero_of_the_village": "2022-10-26 17:57:47 +0800",
+      "raidin_master": "2022-10-26 17:57:48 +0800",
+      "the_tribal_villagers": "2022-10-26 17:57:47 +0800",
+      "do_you_want_to_trade": "2022-10-26 17:57:47 +0800",
+      "guardian_destroyer": "2022-10-26 17:57:47 +0800",
+      "filthy_stinkin_rich": "2022-10-26 17:57:47 +0800",
+      "heres_johnny": "2022-10-26 17:57:47 +0800",
+      "sponge_miner": "2022-10-26 17:57:47 +0800",
+      "professional": "2022-10-26 17:57:47 +0800",
+      "ghostbuster": "2022-10-26 17:57:48 +0800",
+      "prime_specimen": "2022-10-26 17:57:47 +0800",
+      "star_trader": "2022-10-26 17:57:47 +0800",
+      "you_are_the_pillager": "2022-10-26 17:57:47 +0800",
+      "ive_got_a_bad_feeling_about_this": "2022-10-26 17:57:47 +0800",
+      "florist": "2022-10-26 17:57:48 +0800",
+      "justice": "2022-10-26 17:57:48 +0800",
+      "monumental": "2022-10-26 17:57:47 +0800",
+      "businessman": "2022-10-26 17:57:47 +0800",
+      "shady_deals": "2022-10-26 17:57:47 +0800",
+      "traveller": "2022-10-26 17:57:48 +0800",
+      "what_a_deal": "2022-10-26 17:57:47 +0800",
+      "superhero_of_the_village": "2022-10-26 17:57:48 +0800",
+      "i_hereby_dub_thee": "2022-10-26 17:57:47 +0800",
+      "murderer": "2022-10-26 17:57:47 +0800",
+      "disc_jockey": "2022-10-26 17:57:48 +0800",
+      "deals_off": "2022-10-26 17:57:47 +0800",
+      "out_of_posts": "2022-10-26 17:57:48 +0800",
+      "the_shielding": "2022-10-26 17:57:47 +0800",
+      "treasure_map": "2022-10-26 17:57:47 +0800",
+      "rare_candy_shop": "2022-10-26 17:57:47 +0800",
+      "master_trader": "2022-10-26 17:57:48 +0800",
+      "travelling_merchant": "2022-10-26 17:57:48 +0800",
+      "buy_low_sell_high": "2022-10-26 17:57:48 +0800",
+      "postmortal": "2022-10-26 17:57:47 +0800",
+      "crazy_cat_lady": "2022-10-26 17:57:47 +0800",
+      "the_sound_of_music": "2022-10-26 17:57:48 +0800",
+      "overpowered": "2022-10-26 17:57:47 +0800",
+      "a_complete_catalogue": "2022-10-26 17:57:47 +0800",
+      "spear_fishing": "2022-10-26 17:57:47 +0800",
+      "im_not_lost_anymore": "2022-10-26 17:57:47 +0800",
+      "mapmakers_table": "2022-10-26 17:57:47 +0800",
+      "now_youre_thinking_with_portals": "2022-10-26 17:57:48 +0800",
+      "wololo": "2022-10-26 17:57:48 +0800",
+      "whats_up_doc": "2022-10-26 17:57:47 +0800",
+      "body_guard": "2022-10-26 17:57:47 +0800",
+      "filthy_rich": "2022-10-26 17:57:47 +0800",
+      "i_just_want_to_make_toast": "2022-10-26 17:57:47 +0800",
+      "veteran_of_the_village": "2022-10-26 17:57:47 +0800",
+      "were_being_attacked": "2022-10-26 17:57:48 +0800",
+      "lilypad_hatter": "2022-10-26 17:57:48 +0800",
+      "knowledge_is_power": "2022-10-26 17:57:47 +0800",
+      "rebuilding_the_oceans": "2022-10-26 17:57:47 +0800",
+      "retro_future_knight": "2022-10-26 17:57:47 +0800",
+      "if_only_cats_grew_into_kittens": "2022-10-26 17:57:47 +0800",
+      "laser_sharks": "2022-10-26 17:57:47 +0800",
+      "sound_the_alarm": "2022-10-26 17:57:47 +0800",
+      "tomb_raider": "2022-10-26 17:57:48 +0800",
+      "picador": "2022-10-26 17:57:47 +0800",
+      "root": "2022-10-26 17:57:47 +0800",
+      "the_deep_end": "2022-10-26 17:57:47 +0800",
+      "redemption_arc": "2022-10-26 17:57:47 +0800",
+      "nyan_sheep": "2022-10-26 17:57:47 +0800",
+      "secret_of_the_igloo": "2022-10-26 17:57:47 +0800",
+      "the_one_and_true_johnny": "2022-10-26 17:57:48 +0800",
+      "witchcraft": "2022-10-26 17:57:48 +0800",
+      "oh_look_it_dings": "2022-10-26 17:57:48 +0800",
+      "slenderman": "2022-10-26 17:57:48 +0800",
+      "music_to_my_ears": "2022-10-26 17:57:47 +0800",
+      "war_is_coming": "2022-10-26 17:57:48 +0800",
+      "rekt": "2022-10-26 17:57:48 +0800",
+      "your_daily_fix": "2022-10-26 17:57:47 +0800",
+      "workaholic": "2022-10-26 17:57:47 +0800",
+      "dry_spell": "2022-10-26 17:57:47 +0800",
+      "grave_robber": "2022-10-26 17:57:47 +0800",
+      "riot_shield": "2022-10-26 17:57:48 +0800",
+      "i_am_ravager_hear_me_roar": "2022-10-26 17:57:47 +0800",
+      "feeling_ill": "2022-10-26 17:57:47 +0800",
+      "map_room": "2022-10-26 17:57:47 +0800",
+      "town_planner": "2022-10-26 17:57:47 +0800",
+      "beethoven": "2022-10-26 17:57:47 +0800",
+      "hey_you_two_should_kiss": "2022-10-26 17:57:47 +0800",
+      "house_of_psychos": "2022-10-26 17:57:48 +0800",
+      "its_so_beast_like": "2022-10-26 17:57:47 +0800",
+      "all_chained_up": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/branch8_end": {
+    "criteria": {
+      "root": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/ultimate_enchanter": {
+    "criteria": {
+      "sharpness2_book": "2022-10-26 17:57:47 +0800",
+      "mending": "2022-10-26 17:57:47 +0800",
+      "unbreaking1": "2022-10-26 17:57:47 +0800",
+      "unbreaking3": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/novice_enchanter": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/jumping_jacks": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/branch3_end": {
+    "criteria": {
+      "root": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/lightning_mcpig": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/redstone_milestone": {
+    "criteria": {
+      "solar_power": "2022-10-26 17:57:47 +0800",
+      "travelling_bard": "2022-10-26 17:57:47 +0800",
+      "leveraging_synergy": "2022-10-26 17:57:47 +0800",
+      "all_aboard": "2022-10-26 17:57:48 +0800",
+      "target_acquired": "2022-10-26 17:57:47 +0800",
+      "on_a_rail": "2022-10-26 17:57:48 +0800",
+      "powerful_light": "2022-10-26 17:57:47 +0800",
+      "master_engineer": "2022-10-26 17:57:48 +0800",
+      "mobile_explosion": "2022-10-26 17:57:47 +0800",
+      "take_notes": "2022-10-26 17:57:47 +0800",
+      "moving_storage": "2022-10-26 17:57:48 +0800",
+      "quartz_miner": "2022-10-26 17:57:47 +0800",
+      "moving_moving_storage": "2022-10-26 17:57:48 +0800",
+      "troll_chest": "2022-10-26 17:57:47 +0800",
+      "metal_plate": "2022-10-26 17:57:47 +0800",
+      "root": "2022-10-26 17:57:47 +0800",
+      "bling_plate": "2022-10-26 17:57:47 +0800",
+      "under_pressure": "2022-10-26 17:57:47 +0800",
+      "fuel_engine": "2022-10-26 17:57:47 +0800",
+      "mozart": "2022-10-26 17:57:47 +0800",
+      "railwayman": "2022-10-26 17:57:47 +0800",
+      "sticky_parts": "2022-10-26 17:57:47 +0800",
+      "noteworthy": "2022-10-26 17:57:47 +0800",
+      "tripping_over": "2022-10-26 17:57:48 +0800",
+      "engineer": "2022-10-26 17:57:48 +0800",
+      "quirky_quartz": "2022-10-26 17:57:48 +0800",
+      "click": "2022-10-26 17:57:47 +0800",
+      "bullseye": "2022-10-26 17:57:48 +0800",
+      "space_dropper": "2022-10-26 17:57:47 +0800",
+      "repeating_repeater": "2022-10-26 17:57:48 +0800",
+      "comparing_comparator": "2022-10-26 17:57:47 +0800",
+      "target_practise": "2022-10-26 17:57:48 +0800",
+      "observer_buddy": "2022-10-26 17:57:48 +0800",
+      "pressure_detector": "2022-10-26 17:57:48 +0800",
+      "space_hopper": "2022-10-26 17:57:47 +0800",
+      "electric_rails": "2022-10-26 17:57:47 +0800",
+      "dispense_with_this": "2022-10-26 17:57:47 +0800",
+      "moving_parts": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/black_belt_ninja": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "dragon_head": "2022-10-26 17:57:47 +0800",
+      "sunflower": "2022-10-26 17:57:47 +0800",
+      "raw_gold_block": "2022-10-26 17:57:47 +0800",
+      "poppy": "2022-10-26 17:57:47 +0800",
+      "hay_block": "2022-10-26 17:57:47 +0800",
+      "red_shulker_box": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/pig_training": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/hay_there": {
+    "criteria": {
+      "hay_block": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/global_railway_network": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/elderly_enchanter": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/building_milestone": {
+    "criteria": {
+      "fruit_of_the_looms": "2022-10-26 17:57:47 +0800",
+      "deepslate_conspiracy": "2022-10-26 17:57:47 +0800",
+      "mannequin": "2022-10-26 17:57:48 +0800",
+      "classic_pocket_edition_block": "2022-10-26 17:57:47 +0800",
+      "rock_polish": "2022-10-26 17:57:48 +0800",
+      "hot_tub": "2022-10-26 17:57:48 +0800",
+      "fluorescent": "2022-10-26 17:57:48 +0800",
+      "writers_block": "2022-10-26 17:57:48 +0800",
+      "sharpening_station": "2022-10-26 17:57:48 +0800",
+      "halloween": "2022-10-26 17:57:47 +0800",
+      "spruce_lee": "2022-10-26 17:57:48 +0800",
+      "yay_i_got_my_wood": "2022-10-26 17:57:47 +0800",
+      "jailhouse_block": "2022-10-26 17:57:47 +0800",
+      "cerulean": "2022-10-26 17:57:47 +0800",
+      "lost_its_bark": "2022-10-26 17:57:47 +0800",
+      "happy_birthday": "2022-10-26 17:57:47 +0800",
+      "display_your_items_for_all_to_see": "2022-10-26 17:57:48 +0800",
+      "pane_in_the_glass": "2022-10-26 17:57:48 +0800",
+      "pathways": "2022-10-26 17:57:48 +0800",
+      "torched": "2022-10-26 17:57:48 +0800",
+      "a_masterpiece": "2022-10-26 17:57:48 +0800",
+      "crazy_walls": "2022-10-26 17:57:48 +0800",
+      "one_pickle_two_pickle_sea_pickle_four": "2022-10-26 17:57:47 +0800",
+      "cut_in_half": "2022-10-26 17:57:48 +0800",
+      "stationary_storage": "2022-10-26 17:57:47 +0800",
+      "the_rainbow_you_always_wanted": "2022-10-26 17:57:48 +0800",
+      "the_walls": "2022-10-26 17:57:47 +0800",
+      "no_chain_no_gain": "2022-10-26 17:57:48 +0800",
+      "insomniac": "2022-10-26 17:57:47 +0800",
+      "slabs_for_days": "2022-10-26 17:57:47 +0800",
+      "its_original_form": "2022-10-26 17:57:48 +0800",
+      "blast_it": "2022-10-26 17:57:47 +0800",
+      "camping_out": "2022-10-26 17:57:47 +0800",
+      "classy_glassy": "2022-10-26 17:57:48 +0800",
+      "professor_dark_oak": "2022-10-26 17:57:47 +0800",
+      "i_dont_like_sand": "2022-10-26 17:57:47 +0800",
+      "translucence": "2022-10-26 17:57:47 +0800",
+      "rainbow_sand": "2022-10-26 17:57:47 +0800",
+      "professor_oak": "2022-10-26 17:57:48 +0800",
+      "barrel_rider": "2022-10-26 17:57:47 +0800",
+      "creepers_and_withers": "2022-10-26 17:57:48 +0800",
+      "setting_up_the_mood": "2022-10-26 17:57:47 +0800",
+      "the_jungler": "2022-10-26 17:57:47 +0800",
+      "smooth_dude": "2022-10-26 17:57:48 +0800",
+      "barking_mad": "2022-10-26 17:57:47 +0800",
+      "professor_birch": "2022-10-26 17:57:48 +0800",
+      "art_gallery": "2022-10-26 17:57:47 +0800",
+      "grass_type": "2022-10-26 17:57:48 +0800",
+      "shroom_lightyear": "2022-10-26 17:57:47 +0800",
+      "root": "2022-10-26 17:57:47 +0800",
+      "sweet_dreams": "2022-10-26 17:57:48 +0800",
+      "colors_of_the_wind": "2022-10-26 17:57:47 +0800",
+      "raise_the_flag": "2022-10-26 17:57:48 +0800",
+      "agent_smithing_table": "2022-10-26 17:57:47 +0800",
+      "fake_stronghold": "2022-10-26 17:57:48 +0800",
+      "ladder_climbers_inc": "2022-10-26 17:57:48 +0800",
+      "delicious_hot_schmoes": "2022-10-26 17:57:48 +0800",
+      "the_acacia_king": "2022-10-26 17:57:47 +0800",
+      "let_there_be_light": "2022-10-26 17:57:47 +0800",
+      "change_of_sheets": "2022-10-26 17:57:47 +0800",
+      "washing_machine": "2022-10-26 17:57:47 +0800",
+      "and_open": "2022-10-26 17:57:47 +0800",
+      "bricks": "2022-10-26 17:57:47 +0800",
+      "the_ritual_begins": "2022-10-26 17:57:47 +0800",
+      "what_a_pane": "2022-10-26 17:57:48 +0800",
+      "a_good_start": "2022-10-26 17:57:48 +0800",
+      "armor_display": "2022-10-26 17:57:47 +0800",
+      "pot_planter": "2022-10-26 17:57:47 +0800",
+      "ah_my_old_enemy": "2022-10-26 17:57:47 +0800",
+      "electric": "2022-10-26 17:57:47 +0800",
+      "master_logger": "2022-10-26 17:57:48 +0800",
+      "rock_collection": "2022-10-26 17:57:48 +0800",
+      "spawn_camping": "2022-10-26 17:57:48 +0800",
+      "no_banner_only_color": "2022-10-26 17:57:48 +0800",
+      "festival_of_lights": "2022-10-26 17:57:47 +0800",
+      "bubble_bubble_toil_and_trouble": "2022-10-26 17:57:47 +0800",
+      "the_terracotta_army": "2022-10-26 17:57:47 +0800",
+      "the_glazed_terracotta_army": "2022-10-26 17:57:47 +0800",
+      "fake_fortress": "2022-10-26 17:57:48 +0800",
+      "concrete_evidence": "2022-10-26 17:57:47 +0800",
+      "prepare_to_meet_your_loom": "2022-10-26 17:57:47 +0800",
+      "expensive": "2022-10-26 17:57:48 +0800",
+      "its_a_trap": "2022-10-26 17:57:47 +0800",
+      "rainbow_dreams": "2022-10-26 17:57:48 +0800",
+      "glowing": "2022-10-26 17:57:47 +0800",
+      "greek_art_decor": "2022-10-26 17:57:48 +0800",
+      "clay_dough": "2022-10-26 17:57:47 +0800",
+      "fake_monument": "2022-10-26 17:57:48 +0800",
+      "blackstonehenge": "2022-10-26 17:57:47 +0800",
+      "skyblock": "2022-10-26 17:57:47 +0800",
+      "en_garde": "2022-10-26 17:57:47 +0800",
+      "stripper": "2022-10-26 17:57:47 +0800",
+      "harry_potter": "2022-10-26 17:57:47 +0800",
+      "your_door_was_locked": "2022-10-26 17:57:48 +0800",
+      "its_a_sign": "2022-10-26 17:57:47 +0800",
+      "stairs_no": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/branch1_end": {
+    "criteria": {
+      "root": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/olympic_athlete": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/root": {
+    "criteria": {
+      "killed_by_something": "2022-10-26 17:58:06 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/fireworks_display": {
+    "criteria": {
+      "firework_rocket": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/branch5_end": {
+    "criteria": {
+      "root": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/journeyman_enchanter": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/potion_milestone": {
+    "criteria": {
+      "a_weak_brew": "2022-10-26 17:57:47 +0800",
+      "nocturnal": "2022-10-26 17:57:47 +0800",
+      "poison_dart": "2022-10-26 17:57:48 +0800",
+      "medic": "2022-10-26 17:57:47 +0800",
+      "performance_enhancing_drugs": "2022-10-26 17:57:48 +0800",
+      "hyper_healing": "2022-10-26 17:57:48 +0800",
+      "super_strength": "2022-10-26 17:57:48 +0800",
+      "noxious_fumes": "2022-10-26 17:57:47 +0800",
+      "stayin_frosty": "2022-10-26 17:57:48 +0800",
+      "failed_concoctions": "2022-10-26 17:57:48 +0800",
+      "true_feather_falling": "2022-10-26 17:57:47 +0800",
+      "the_invisible_player": "2022-10-26 17:57:47 +0800",
+      "root": "2022-10-26 17:57:48 +0800",
+      "gas": "2022-10-26 17:57:47 +0800",
+      "tank": "2022-10-26 17:57:47 +0800",
+      "marine_marauder": "2022-10-26 17:57:47 +0800",
+      "a_furious_cocktail": "2022-10-26 17:57:47 +0800",
+      "zombie_doctor": "2022-10-26 17:57:47 +0800",
+      "stealth_takedown": "2022-10-26 17:57:48 +0800",
+      "mad_scientist": "2022-10-26 17:57:47 +0800",
+      "furious_ammunition": "2022-10-26 17:57:47 +0800",
+      "you_need_a_mint": "2022-10-26 17:57:47 +0800",
+      "a_furious_test_subject": "2022-10-26 17:57:48 +0800",
+      "gas_bomb": "2022-10-26 17:57:47 +0800",
+      "hopping_mad": "2022-10-26 17:57:47 +0800",
+      "a_much_more_doable_challenge": "2022-10-26 17:57:48 +0800",
+      "death_by_magic": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/take_to_the_skies": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/mineral_collection": {
+    "criteria": {
+      "raw_gold_block": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/boing_boing": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/ancient_kung_fu_master": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/spring_in_your_step": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/filthy_rich": {
+    "criteria": {
+      "emeralds": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/statistics_milestone": {
+    "criteria": {
+      "two_by_two": "2022-10-26 17:57:47 +0800",
+      "who_needs_cars": "2022-10-26 17:57:47 +0800",
+      "black_belt_ninja": "2022-10-26 17:57:47 +0800",
+      "minecart_rider": "2022-10-26 17:57:47 +0800",
+      "novice_enchanter": "2022-10-26 17:57:48 +0800",
+      "marathon": "2022-10-26 17:57:48 +0800",
+      "boing_boing": "2022-10-26 17:57:47 +0800",
+      "the_parrots_and_the_bats": "2022-10-26 17:57:48 +0800",
+      "natural_sprinter": "2022-10-26 17:57:47 +0800",
+      "elderly_enchanter": "2022-10-26 17:57:47 +0800",
+      "olympic_athlete": "2022-10-26 17:57:47 +0800",
+      "mob_hunter": "2022-10-26 17:57:47 +0800",
+      "sailor_of_the_seven_seas": "2022-10-26 17:57:47 +0800",
+      "i_like_trains": "2022-10-26 17:57:47 +0800",
+      "taking_it_in_stride": "2022-10-26 17:57:48 +0800",
+      "sheriff_firearm": "2022-10-26 17:57:47 +0800",
+      "your_legs_must_be_tired": "2022-10-26 17:57:47 +0800",
+      "olympic_gold_medallist": "2022-10-26 17:57:47 +0800",
+      "spring_in_your_step": "2022-10-26 17:57:47 +0800",
+      "who_needs_boats": "2022-10-26 17:57:47 +0800",
+      "stonks": "2022-10-26 17:57:47 +0800",
+      "supersonic": "2022-10-26 17:57:47 +0800",
+      "snout_500": "2022-10-26 17:57:47 +0800",
+      "i_enjoy_long_walks_and_playing_minecraft": "2022-10-26 17:57:47 +0800",
+      "scourge_of_the_west": "2022-10-26 17:57:47 +0800",
+      "out_for_a_stroll": "2022-10-26 17:57:47 +0800",
+      "happy_new_year": "2022-10-26 17:57:48 +0800",
+      "level_up": "2022-10-26 17:57:48 +0800",
+      "luxury_cruise": "2022-10-26 17:57:48 +0800",
+      "this_ride_is_lit_yo": "2022-10-26 17:57:47 +0800",
+      "passing_the_time": "2022-10-26 17:57:48 +0800",
+      "the_first_night": "2022-10-26 17:57:47 +0800",
+      "horse_training": "2022-10-26 17:57:47 +0800",
+      "journeyman_enchanter": "2022-10-26 17:57:47 +0800",
+      "take_to_the_skies": "2022-10-26 17:57:47 +0800",
+      "overlevelling": "2022-10-26 17:57:47 +0800",
+      "global_railway_network": "2022-10-26 17:57:47 +0800",
+      "root": "2022-10-26 17:57:47 +0800",
+      "lightning_mcpig": "2022-10-26 17:57:48 +0800",
+      "ancient_kung_fu_master": "2022-10-26 17:57:48 +0800",
+      "big_spender": "2022-10-26 17:57:47 +0800",
+      "kill_or_be_killed": "2022-10-26 17:57:48 +0800",
+      "the_haggler": "2022-10-26 17:57:47 +0800",
+      "xp_grinder": "2022-10-26 17:57:47 +0800",
+      "laps_in_the_pool": "2022-10-26 17:57:47 +0800",
+      "pig_training": "2022-10-26 17:57:48 +0800",
+      "jumping_jacks": "2022-10-26 17:57:47 +0800",
+      "cupid": "2022-10-26 17:57:47 +0800",
+      "pirate_captain": "2022-10-26 17:57:48 +0800",
+      "sneaky_snitch": "2022-10-26 17:57:47 +0800",
+      "frequent_flyer": "2022-10-26 17:57:47 +0800",
+      "bloodthirsty": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/minecart_rider": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/sneaky_snitch": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/riddle_me_this": {
+    "criteria": {
+      "second_line": "2022-10-26 17:57:47 +0800",
+      "tenth_line": "2022-10-26 17:57:48 +0800",
+      "third_line": "2022-10-26 17:57:47 +0800",
+      "first_line": "2022-10-26 17:57:47 +0800",
+      "fourth_line": "2022-10-26 17:57:47 +0800",
+      "ninth_line": "2022-10-26 17:57:47 +0800",
+      "fifth_line": "2022-10-26 17:57:47 +0800",
+      "sixth_line": "2022-10-26 17:57:47 +0800",
+      "seventh_line": "2022-10-26 17:57:48 +0800",
+      "eighth_line": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/scourge_of_the_west": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/stack_all_the_blocks": {
+    "criteria": {
+      "hay_block": "2022-10-26 17:57:47 +0800",
+      "red_shulker_box": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-10-04 14:06:50 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/snout_500": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/cupid": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/weaponry_milestone": {
+    "criteria": {
+      "x_bow": "2022-10-26 17:57:48 +0800",
+      "king_of_the_sea": "2022-10-26 17:57:47 +0800",
+      "pig_fishing_tournament": "2022-10-26 17:57:47 +0800",
+      "half_heart_life": "2022-10-26 17:57:48 +0800",
+      "slapfish": "2022-10-26 17:57:48 +0800",
+      "snowball_fight": "2022-10-26 17:57:47 +0800",
+      "sir_knight": "2022-10-26 17:57:47 +0800",
+      "egging_dude": "2022-10-26 17:57:48 +0800",
+      "root": "2022-10-26 17:57:48 +0800",
+      "theres_yolk_on_my_head": "2022-10-26 17:57:47 +0800",
+      "a_throwaway_joke": "2022-10-26 17:57:47 +0800",
+      "the_mighty_hunter": "2022-10-26 17:57:48 +0800",
+      "a_snowballs_chance_in_hell": "2022-10-26 17:57:47 +0800",
+      "point_blank": "2022-10-26 17:57:47 +0800",
+      "take_aim": "2022-10-26 17:57:48 +0800",
+      "when_pigs_finally_fly": "2022-10-26 17:57:47 +0800",
+      "loser": "2022-10-26 17:57:48 +0800",
+      "axeman": "2022-10-26 17:57:47 +0800",
+      "pyrotechnic": "2022-10-26 17:57:47 +0800",
+      "expelliarmus": "2022-10-26 17:57:47 +0800",
+      "the_aquatic_hunter": "2022-10-26 17:57:48 +0800",
+      "multiclassed": "2022-10-26 17:57:47 +0800",
+      "inspector_gadget": "2022-10-26 17:57:47 +0800",
+      "artillery": "2022-10-26 17:57:47 +0800",
+      "viking": "2022-10-26 17:57:48 +0800",
+      "ol_betsy": "2022-10-26 17:57:47 +0800",
+      "who_ya_gonna_call": "2022-10-26 17:57:48 +0800",
+      "explosive_fire": "2022-10-26 17:57:47 +0800",
+      "revenge": "2022-10-26 17:57:48 +0800",
+      "bow_spammer": "2022-10-26 17:57:47 +0800",
+      "shovel_knight": "2022-10-26 17:57:48 +0800",
+      "diemonds": "2022-10-26 17:57:47 +0800",
+      "shield_luck": "2022-10-26 17:57:48 +0800",
+      "fireworks_display": "2022-10-26 17:57:48 +0800",
+      "flying_colors": "2022-10-26 17:57:48 +0800",
+      "bombs_away": "2022-10-26 17:57:47 +0800",
+      "backfire": "2022-10-26 17:57:47 +0800",
+      "sniper_duel": "2022-10-26 17:57:47 +0800",
+      "demolitions_expert": "2022-10-26 17:57:48 +0800",
+      "rock_paper_shears": "2022-10-26 17:57:48 +0800",
+      "whos_the_pillager_now": "2022-10-26 17:57:48 +0800",
+      "poseidon_vs_hades": "2022-10-26 17:57:47 +0800",
+      "that_is_so_fletch": "2022-10-26 17:57:47 +0800",
+      "my_eyes": "2022-10-26 17:57:47 +0800",
+      "indiana_jones": "2022-10-26 17:57:47 +0800",
+      "its_time_consuming": "2022-10-26 17:57:47 +0800",
+      "master_shieldsman": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/stack_all_the_items": {
+    "criteria": {
+      "leather_boots": "2022-10-26 17:57:47 +0800",
+      "saddle": "2022-10-26 17:57:47 +0800",
+      "emerald": "2022-10-26 17:57:48 +0800",
+      "dark_oak_boat": "2022-10-26 17:57:47 +0800",
+      "potion": "2022-10-26 17:57:47 +0800",
+      "golden_horse_armor": "2022-10-26 17:57:47 +0800",
+      "firework_rocket": "2022-10-26 17:57:47 +0800",
+      "elytra": "2022-10-26 17:57:47 +0800",
+      "oak_boat": "2022-10-26 17:57:47 +0800",
+      "lapis_lazuli": "2022-10-26 17:57:47 +0800",
+      "enchanted_book": "2022-10-26 17:57:47 +0800",
+      "bow": "2022-10-26 17:57:47 +0800",
+      "diamond": "2022-10-26 17:57:48 +0800"
+    },
+    "done": false
+  },
+  "blazeandcave:animal/iceologer_shouldve_won": {
+    "criteria": {
+      "kill_100_glow_squids": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:end/somewhere_over_the_rainbow": {
+    "criteria": {
+      "red_shulker_box": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/two_by_two": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "armor_for_the_masses": "2022-10-26 17:57:47 +0800",
+      "come_to_the_countryside": "2022-10-26 17:57:47 +0800",
+      "guardian_destroyer": "2022-10-26 17:57:47 +0800",
+      "sponge_miner": "2022-10-26 17:57:47 +0800",
+      "24_carrot_gold": "2022-10-26 17:57:47 +0800",
+      "biological_warfare": "2022-10-26 17:57:47 +0800",
+      "enders_chest": "2022-10-26 17:57:47 +0800",
+      "enchanting_root": "2022-10-26 17:57:48 +0800",
+      "minecart_rider": "2022-10-26 17:57:47 +0800",
+      "challenges_milestone": "2022-10-26 17:57:47 +0800",
+      "star_trader": "2022-10-26 17:57:48 +0800",
+      "you_are_the_pillager": "2022-10-26 17:57:47 +0800",
+      "bling_bling_gone": "2022-10-26 17:57:47 +0800",
+      "take_aim": "2022-10-26 17:57:48 +0800",
+      "polar_opposites": "2022-10-26 17:57:48 +0800",
+      "cultural_misunderstandings": "2022-10-26 17:57:47 +0800",
+      "suit_up": "2022-10-26 17:57:47 +0800",
+      "dragon_vs_dragon_ii_electric_boogaloo": "2022-10-26 17:57:48 +0800",
+      "inspector_gadget": "2022-10-26 17:57:47 +0800",
+      "bone_to_party": "2022-10-26 17:57:47 +0800",
+      "no_dont_let_me_leave_murph": "2022-10-26 17:57:48 +0800",
+      "click": "2022-10-26 17:57:48 +0800",
+      "stone_age": "2022-10-26 17:57:47 +0800",
+      "travelling_merchant": "2022-10-26 17:57:47 +0800",
+      "controlled_detonation": "2022-10-26 17:57:47 +0800",
+      "moving_parts": "2022-10-26 17:57:47 +0800",
+      "boatception": "2022-10-26 17:57:47 +0800",
+      "wololo": "2022-10-26 17:57:47 +0800",
+      "professor_oak": "2022-10-26 17:57:47 +0800",
+      "undersea_gardener": "2022-10-26 17:57:47 +0800",
+      "bow_down_to_me": "2022-10-26 17:57:48 +0800",
+      "iron_belly": "2022-10-26 17:57:47 +0800",
+      "happy_new_year": "2022-10-26 17:57:48 +0800",
+      "were_in_the_endgame_now": "2022-10-26 17:57:47 +0800",
+      "a_gluttonous_diet": "2022-10-26 17:57:47 +0800",
+      "combine_harvester": "2022-10-26 17:57:48 +0800",
+      "wax_on": "2022-10-26 17:57:47 +0800",
+      "retro_future_knight": "2022-10-26 17:57:47 +0800",
+      "screaming_milk": "2022-10-26 17:57:47 +0800",
+      "astrobrute": "2022-10-26 17:57:47 +0800",
+      "roadhog": "2022-10-26 17:57:47 +0800",
+      "vegetarian": "2022-10-26 17:57:47 +0800",
+      "write_your_thoughts": "2022-10-26 17:57:47 +0800",
+      "its_full_of_ink": "2022-10-26 17:57:47 +0800",
+      "kill_or_be_killed": "2022-10-26 17:57:47 +0800",
+      "who_ya_gonna_call": "2022-10-26 17:57:48 +0800",
+      "mad_scientist": "2022-10-26 17:57:47 +0800",
+      "high_steaks": "2022-10-26 17:57:48 +0800",
+      "bubble_bubble_toil_and_trouble": "2022-10-26 17:57:48 +0800",
+      "time_to_mine": "2022-10-26 17:57:47 +0800",
+      "some_breakthrough": "2022-10-26 17:57:48 +0800",
+      "bonfire_night": "2022-10-26 17:57:47 +0800",
+      "foliage": "2022-10-26 17:57:47 +0800",
+      "the_next_generation": "2022-10-26 17:57:47 +0800",
+      "i_am_root": "2022-10-26 17:57:47 +0800",
+      "its_a_trap": "2022-10-26 17:57:47 +0800",
+      "whos_the_pillager_now": "2022-10-26 17:57:47 +0800",
+      "hey_you_two_should_kiss": "2022-10-26 17:57:47 +0800",
+      "is_it_a_balloon": "2022-10-26 17:57:47 +0800",
+      "salmonella_poisoning": "2022-10-26 17:57:47 +0800",
+      "goat_out_of_here": "2022-10-26 17:57:47 +0800",
+      "high_feet": "2022-10-26 17:57:48 +0800",
+      "dungeon_crawler": "2022-10-26 17:57:48 +0800",
+      "two_by_two": "2022-10-26 17:57:48 +0800",
+      "feeding_the_chickens": "2022-10-26 17:57:47 +0800",
+      "moving_moving_storage": "2022-10-26 17:57:47 +0800",
+      "brute_force": "2022-10-26 17:57:48 +0800",
+      "feels_like_home": "2022-10-26 17:57:47 +0800",
+      "ice_bucket_challenge": "2022-10-26 17:57:47 +0800",
+      "florist": "2022-10-26 17:57:48 +0800",
+      "cow_jumped_over_the_moon": "2022-10-26 17:57:48 +0800",
+      "jailhouse_block": "2022-10-26 17:57:48 +0800",
+      "artillery": "2022-10-26 17:57:48 +0800",
+      "time_to_chop": "2022-10-26 17:57:48 +0800",
+      "bake_bread": "2022-10-26 17:57:48 +0800",
+      "jenga": "2022-10-26 17:57:47 +0800",
+      "gilded_miner": "2022-10-26 17:57:47 +0800",
+      "elderly_enchanter": "2022-10-26 17:57:48 +0800",
+      "event_horizon": "2022-10-26 17:57:47 +0800",
+      "dead_really_dont_die": "2022-10-26 17:57:48 +0800",
+      "crazy_walls": "2022-10-26 17:57:47 +0800",
+      "sailor_of_the_seven_seas": "2022-10-26 17:57:47 +0800",
+      "the_city_at_the_end_of_the_game": "2022-10-26 17:57:47 +0800",
+      "taking_it_in_stride": "2022-10-26 17:57:47 +0800",
+      "the_walls": "2022-10-26 17:57:47 +0800",
+      "poisonous_ew": "2022-10-26 17:57:48 +0800",
+      "no_chain_no_gain": "2022-10-26 17:57:47 +0800",
+      "getting_wood": "2022-10-26 17:57:47 +0800",
+      "return_to_sender": "2022-10-26 17:57:47 +0800",
+      "stay_calmer": "2022-10-26 17:57:47 +0800",
+      "construction_worker": "2022-10-26 17:57:47 +0800",
+      "lucky_break": "2022-10-26 17:57:47 +0800",
+      "acquire_hardware": "2022-10-26 17:57:47 +0800",
+      "half_heart_life": "2022-10-26 17:57:47 +0800",
+      "hive_mind": "2022-10-26 17:57:47 +0800",
+      "egging_dude": "2022-10-26 17:57:47 +0800",
+      "nest_quick": "2022-10-26 17:57:48 +0800",
+      "totally_not_an_afk_fisher": "2022-10-26 17:57:47 +0800",
+      "ancient_kung_fu_master": "2022-10-26 17:57:48 +0800",
+      "pyrotechnic": "2022-10-26 17:57:48 +0800",
+      "suspicious_looking_stew": "2022-10-26 17:57:47 +0800",
+      "iron_man": "2022-10-26 17:57:47 +0800",
+      "ah_my_old_enemy": "2022-10-26 17:57:48 +0800",
+      "taste_of_your_own_medicine": "2022-10-26 17:57:47 +0800",
+      "no_banner_only_color": "2022-10-26 17:57:47 +0800",
+      "care_for_the_environment": "2022-10-26 17:57:48 +0800",
+      "master_angler": "2022-10-26 17:57:48 +0800",
+      "hot_stuff": "2022-10-26 17:57:47 +0800",
+      "monster_hunter": "2022-10-26 17:57:47 +0800",
+      "void_ender": "2022-10-26 17:57:48 +0800",
+      "what_about_corruption_planks": "2022-10-26 17:57:48 +0800",
+      "aquarium": "2022-10-26 17:57:48 +0800",
+      "barbearian": "2022-10-26 17:57:48 +0800",
+      "renewable_energy": "2022-10-26 17:57:47 +0800",
+      "ancient_restoration": "2022-10-26 17:57:47 +0800",
+      "fire_blast_shield": "2022-10-26 17:57:47 +0800",
+      "bloodthirsty": "2022-10-26 17:57:47 +0800",
+      "bane_of_one_shotting_spiders": "2022-10-26 17:57:48 +0800",
+      "thick_ice": "2022-10-26 17:57:47 +0800",
+      "scientific_inaccuracy": "2022-10-26 17:57:47 +0800",
+      "immortal": "2022-10-26 17:57:48 +0800",
+      "inception": "2022-10-26 17:57:47 +0800",
+      "do_you_want_to_trade": "2022-10-26 17:57:48 +0800",
+      "to_infinity_and_beyond": "2022-10-26 17:57:47 +0800",
+      "dogfight": "2022-10-26 17:57:47 +0800",
+      "blackberry_market": "2022-10-26 17:57:47 +0800",
+      "stack_all_the_blocks": "2022-10-26 17:57:47 +0800",
+      "bling_plate": "2022-10-26 17:57:47 +0800",
+      "bunny_lover": "2022-10-26 17:57:47 +0800",
+      "very_very_frightening": "2022-10-26 17:57:48 +0800",
+      "snow_fox_64": "2022-10-26 17:57:47 +0800",
+      "spooky_skeleton": "2022-10-26 17:57:47 +0800",
+      "so_i_got_that_going_for_me": "2022-10-26 17:57:48 +0800",
+      "natural_sprinter": "2022-10-26 17:57:47 +0800",
+      "disc_jockey": "2022-10-26 17:57:48 +0800",
+      "out_of_posts": "2022-10-26 17:57:47 +0800",
+      "wub_wub_wub": "2022-10-26 17:57:47 +0800",
+      "lapis_lazuli_miner": "2022-10-26 17:57:47 +0800",
+      "tridented_shield": "2022-10-26 17:57:48 +0800",
+      "titanic": "2022-10-26 17:57:48 +0800",
+      "the_nethers_shield": "2022-10-26 17:57:48 +0800",
+      "fashion_statement": "2022-10-26 17:57:47 +0800",
+      "nugget_in_a_biscuit": "2022-10-26 17:57:47 +0800",
+      "spring_in_your_step": "2022-10-26 17:57:47 +0800",
+      "wet_feet": "2022-10-26 17:57:47 +0800",
+      "warm_feet": "2022-10-26 17:57:48 +0800",
+      "spear_fishing": "2022-10-26 17:57:47 +0800",
+      "blast_shield": "2022-10-26 17:57:47 +0800",
+      "supersonic": "2022-10-26 17:57:47 +0800",
+      "qinling": "2022-10-26 17:57:47 +0800",
+      "time_to_strike": "2022-10-26 17:57:47 +0800",
+      "leveraging_synergy": "2022-10-26 17:57:48 +0800",
+      "whats_up_doc": "2022-10-26 17:57:47 +0800",
+      "squid_game": "2022-10-26 17:57:47 +0800",
+      "the_world_is_ending": "2022-10-26 17:57:48 +0800",
+      "smooth_dude": "2022-10-26 17:57:48 +0800",
+      "barking_mad": "2022-10-26 17:57:48 +0800",
+      "i_just_want_to_make_toast": "2022-10-26 17:57:48 +0800",
+      "end_bricks": "2022-10-26 17:57:47 +0800",
+      "into_fire": "2022-10-26 17:57:47 +0800",
+      "grass_type": "2022-10-26 17:57:47 +0800",
+      "who_is_cutting_onions": "2022-10-26 17:57:47 +0800",
+      "master_copper_miner": "2022-10-26 17:57:48 +0800",
+      "bring_down_the_beast": "2022-10-26 17:57:47 +0800",
+      "im_in_lava_with_you": "2022-10-26 17:57:48 +0800",
+      "let_there_be_light": "2022-10-26 17:57:47 +0800",
+      "a_snowballs_chance_in_hell": "2022-10-26 17:57:47 +0800",
+      "redemption_arc": "2022-10-26 17:57:48 +0800",
+      "the_ender_of_ender": "2022-10-26 17:57:47 +0800",
+      "the_aquatic_hunter": "2022-10-26 17:57:47 +0800",
+      "llama_festival": "2022-10-26 17:57:47 +0800",
+      "the_one_and_true_johnny": "2022-10-26 17:57:47 +0800",
+      "washing_machine": "2022-10-26 17:57:48 +0800",
+      "shouldnt_my_shield_levitate_too": "2022-10-26 17:57:47 +0800",
+      "zombie_doctor": "2022-10-26 17:57:48 +0800",
+      "biomes_milestone": "2022-10-26 17:57:47 +0800",
+      "not_chicken_mcnuggets": "2022-10-26 17:57:48 +0800",
+      "bottom_to_top": "2022-10-26 17:57:48 +0800",
+      "i_am_ravager_hear_me_roar": "2022-10-26 17:57:47 +0800",
+      "called_shot": "2022-10-26 17:57:47 +0800",
+      "high_temperature_fluid_monster": "2022-10-26 17:57:48 +0800",
+      "witch": "2022-10-26 17:57:47 +0800",
+      "family_reunion": "2022-10-26 17:57:47 +0800",
+      "bring_home_the_beacon": "2022-10-26 17:57:47 +0800",
+      "grinding_nemo": "2022-10-26 17:57:48 +0800",
+      "hell_hunter": "2022-10-26 17:57:48 +0800",
+      "noxious_fumes": "2022-10-26 17:57:47 +0800",
+      "black_belt_ninja": "2022-10-26 17:57:47 +0800",
+      "gold_miner": "2022-10-26 17:57:47 +0800",
+      "farming_root": "2022-10-26 17:57:48 +0800",
+      "axolittle": "2022-10-26 17:57:47 +0800",
+      "overkill": "2022-10-26 17:57:47 +0800",
+      "delicious_fish": "2022-10-26 17:57:48 +0800",
+      "so_long_and_thanks_for_all_the_fish": "2022-10-26 17:57:48 +0800",
+      "a_watery_grave": "2022-10-26 17:57:47 +0800",
+      "flint_miner": "2022-10-26 17:57:47 +0800",
+      "creeper_killer": "2022-10-26 17:57:48 +0800",
+      "the_shielding": "2022-10-26 17:57:47 +0800",
+      "slabs_for_days": "2022-10-26 17:57:47 +0800",
+      "space_hopper": "2022-10-26 17:57:47 +0800",
+      "portable_storage": "2022-10-26 17:57:47 +0800",
+      "mapmakers_table": "2022-10-26 17:57:47 +0800",
+      "sleep_with_the_fishes": "2022-10-26 17:57:47 +0800",
+      "goat_simulator": "2022-10-26 17:57:47 +0800",
+      "stepping_on_legos": "2022-10-26 17:57:47 +0800",
+      "level_up": "2022-10-26 17:57:47 +0800",
+      "hot_topic": "2022-10-26 17:57:47 +0800",
+      "anti_air": "2022-10-26 17:57:48 +0800",
+      "medic": "2022-10-26 17:57:48 +0800",
+      "horse_training": "2022-10-26 17:57:47 +0800",
+      "riddle_me_this": "2022-10-26 17:57:47 +0800",
+      "super_strength": "2022-10-26 17:57:48 +0800",
+      "desert_nomad": "2022-10-26 17:57:48 +0800",
+      "simba": "2022-10-26 17:57:47 +0800",
+      "overlevelling": "2022-10-26 17:57:47 +0800",
+      "save_the_turtles": "2022-10-26 17:57:48 +0800",
+      "a_seedy_place": "2022-10-26 17:57:47 +0800",
+      "creepergeddon": "2022-10-26 17:57:48 +0800",
+      "music_to_my_ears": "2022-10-26 17:57:47 +0800",
+      "what_does_the_fox_say": "2022-10-26 17:57:48 +0800",
+      "stealth_takedown": "2022-10-26 17:57:47 +0800",
+      "sticky_situation": "2022-10-26 17:57:48 +0800",
+      "boaty_mcboatface": "2022-10-26 17:57:48 +0800",
+      "the_terracotta_army": "2022-10-26 17:57:47 +0800",
+      "backfire": "2022-10-26 17:57:48 +0800",
+      "the_undead_cavalry": "2022-10-26 17:57:47 +0800",
+      "sniper_duel": "2022-10-26 17:57:48 +0800",
+      "demolitions_expert": "2022-10-26 17:57:47 +0800",
+      "freezing": "2022-10-26 17:57:47 +0800",
+      "chicken_cooper": "2022-10-26 17:57:47 +0800",
+      "not_quite_nine_lives": "2022-10-26 17:57:48 +0800",
+      "stabcraft": "2022-10-26 17:57:47 +0800",
+      "your_door_was_locked": "2022-10-26 17:57:47 +0800",
+      "a_much_more_doable_challenge": "2022-10-26 17:57:48 +0800",
+      "mooshroom_kingdom": "2022-10-26 17:57:48 +0800",
+      "true_cow_tipper": "2022-10-26 17:57:48 +0800",
+      "benchmarking": "2022-10-26 17:57:47 +0800",
+      "classic_pocket_edition_block": "2022-10-26 17:57:47 +0800",
+      "master_engineer": "2022-10-26 17:57:48 +0800",
+      "a_horse_in_shining_armor": "2022-10-26 17:57:47 +0800",
+      "deep_slate_nine": "2022-10-26 17:57:47 +0800",
+      "professional": "2022-10-26 17:57:48 +0800",
+      "sharpening_station": "2022-10-26 17:57:47 +0800",
+      "time_to_dig": "2022-10-26 17:57:47 +0800",
+      "one_course_meal": "2022-10-26 17:57:47 +0800",
+      "aww_man": "2022-10-26 17:57:48 +0800",
+      "dont_come_a_copper": "2022-10-26 17:57:48 +0800",
+      "thats_the_point": "2022-10-26 17:57:47 +0800",
+      "marine_marauder": "2022-10-26 17:57:47 +0800",
+      "the_phantom_menace": "2022-10-26 17:57:48 +0800",
+      "the_way_to_spawn": "2022-10-26 17:57:47 +0800",
+      "powder_full": "2022-10-26 17:57:47 +0800",
+      "superhero_of_the_village": "2022-10-26 17:57:47 +0800",
+      "plane_walker": "2022-10-26 17:57:48 +0800",
+      "adventure_milestone": "2022-10-26 17:57:47 +0800",
+      "deals_off": "2022-10-26 17:57:47 +0800",
+      "flying_colors": "2022-10-26 17:57:47 +0800",
+      "llama_llama_duck_king": "2022-10-26 17:57:47 +0800",
+      "blaze_extinguisher": "2022-10-26 17:57:47 +0800",
+      "professor_dark_oak": "2022-10-26 17:57:47 +0800",
+      "for_mother_clarence": "2022-10-26 17:57:47 +0800",
+      "its_time_consuming": "2022-10-26 17:57:47 +0800",
+      "translucence": "2022-10-26 17:57:47 +0800",
+      "copper_miner": "2022-10-26 17:57:48 +0800",
+      "snout_500": "2022-10-26 17:57:47 +0800",
+      "heavy_duty_caravan": "2022-10-26 17:57:48 +0800",
+      "fossil_fuel": "2022-10-26 17:57:47 +0800",
+      "i_am_loot": "2022-10-26 17:57:47 +0800",
+      "follow_the_leader": "2022-10-26 17:57:47 +0800",
+      "laser_sharks": "2022-10-26 17:57:47 +0800",
+      "horse_armorer": "2022-10-26 17:57:48 +0800",
+      "not_the_bees": "2022-10-26 17:57:48 +0800",
+      "the_deep_end": "2022-10-26 17:57:48 +0800",
+      "milk_does_your_body_good": "2022-10-26 17:57:47 +0800",
+      "the_point_of_no_return": "2022-10-26 17:57:48 +0800",
+      "tele_morph": "2022-10-26 17:57:47 +0800",
+      "this_boat_has_legs": "2022-10-26 17:57:47 +0800",
+      "nyan_sheep": "2022-10-26 17:57:48 +0800",
+      "soul_runnings": "2022-10-26 17:57:47 +0800",
+      "fuel_engine": "2022-10-26 17:57:48 +0800",
+      "welcome_to_warp_zone": "2022-10-26 17:57:48 +0800",
+      "pot_planter": "2022-10-26 17:57:47 +0800",
+      "giddy_up": "2022-10-26 17:57:47 +0800",
+      "quicksand": "2022-10-26 17:57:47 +0800",
+      "xp_grinder": "2022-10-26 17:57:47 +0800",
+      "librarian": "2022-10-26 17:57:48 +0800",
+      "thanks_a_lotl": "2022-10-26 17:57:47 +0800",
+      "from_whence_it_came": "2022-10-26 17:57:47 +0800",
+      "you_need_a_mint": "2022-10-26 17:57:47 +0800",
+      "space_dropper": "2022-10-26 17:57:47 +0800",
+      "cupid": "2022-10-26 17:57:48 +0800",
+      "target_practise": "2022-10-26 17:57:48 +0800",
+      "mushroom_scientist": "2022-10-26 17:57:47 +0800",
+      "burnt_right_into_your_soul": "2022-10-26 17:57:47 +0800",
+      "clay_dough": "2022-10-26 17:57:48 +0800",
+      "light_as_a_rabbit": "2022-10-26 17:57:48 +0800",
+      "there_has_to_be_another_way": "2022-10-26 17:57:48 +0800",
+      "getting_chorus": "2022-10-26 17:57:47 +0800",
+      "mushroom_mushroom": "2022-10-26 17:57:47 +0800",
+      "so_good": "2022-10-26 17:57:48 +0800",
+      "steals_on_wheels": "2022-10-26 17:57:48 +0800",
+      "echolocation": "2022-10-26 17:57:47 +0800",
+      "leaflet_drop": "2022-10-26 17:57:47 +0800",
+      "termite_control": "2022-10-26 17:57:48 +0800",
+      "tropical_collection": "2022-10-26 17:57:47 +0800",
+      "zoologist": "2022-10-26 17:57:48 +0800",
+      "fishy_business": "2022-10-26 17:57:48 +0800",
+      "electrifying_alliance": "2022-10-26 17:57:47 +0800",
+      "strike_a_light": "2022-10-26 17:57:47 +0800",
+      "cover_me_with_diamonds": "2022-10-26 17:57:47 +0800",
+      "writers_block": "2022-10-26 17:57:47 +0800",
+      "meet_the_flintstones": "2022-10-26 17:57:47 +0800",
+      "blackout": "2022-10-26 17:57:47 +0800",
+      "dragon_vs_dragon": "2022-10-26 17:57:48 +0800",
+      "who_needs_cars": "2022-10-26 17:57:47 +0800",
+      "mollusc_man": "2022-10-26 17:57:47 +0800",
+      "axolotl_of_them": "2022-10-26 17:57:47 +0800",
+      "this_name_sounds_cooler": "2022-10-26 17:57:47 +0800",
+      "novice_enchanter": "2022-10-26 17:57:47 +0800",
+      "which_came_first": "2022-10-26 17:57:47 +0800",
+      "shrooms": "2022-10-26 17:57:47 +0800",
+      "the_ghastly_eyes": "2022-10-26 17:57:47 +0800",
+      "ol_betsy": "2022-10-26 17:57:48 +0800",
+      "iggy": "2022-10-26 17:57:47 +0800",
+      "marathon": "2022-10-26 17:57:47 +0800",
+      "repeating_repeater": "2022-10-26 17:57:47 +0800",
+      "observer_buddy": "2022-10-26 17:57:47 +0800",
+      "stationary_storage": "2022-10-26 17:57:47 +0800",
+      "your_legs_must_be_tired": "2022-10-26 17:57:47 +0800",
+      "insomniac": "2022-10-26 17:57:47 +0800",
+      "its_original_form": "2022-10-26 17:57:47 +0800",
+      "crazy_cat_lady": "2022-10-26 17:57:47 +0800",
+      "classy_glassy": "2022-10-26 17:57:48 +0800",
+      "poacher": "2022-10-26 17:57:47 +0800",
+      "rainbow_sand": "2022-10-26 17:57:48 +0800",
+      "dispense_with_this": "2022-10-26 17:57:48 +0800",
+      "overpopulation": "2022-10-26 17:57:47 +0800",
+      "the_cutest_predator": "2022-10-26 17:57:48 +0800",
+      "travelling_bard": "2022-10-26 17:57:48 +0800",
+      "filthy_rich": "2022-10-26 17:57:47 +0800",
+      "impossible": "2022-10-26 17:57:47 +0800",
+      "snowball_fight": "2022-10-26 17:57:48 +0800",
+      "theyre_breeding_like_rabbits": "2022-10-26 17:57:47 +0800",
+      "master_arbalist": "2022-10-26 17:57:47 +0800",
+      "telescopic": "2022-10-26 17:57:47 +0800",
+      "sir_knight": "2022-10-26 17:57:48 +0800",
+      "surge_protector": "2022-10-26 17:57:47 +0800",
+      "the_mighty_hunter": "2022-10-26 17:57:47 +0800",
+      "secret_of_the_igloo": "2022-10-26 17:57:47 +0800",
+      "expelliarmus": "2022-10-26 17:57:48 +0800",
+      "witchcraft": "2022-10-26 17:57:48 +0800",
+      "pumpa_kungen": "2022-10-26 17:57:47 +0800",
+      "nether_milestone": "2022-10-26 17:57:48 +0800",
+      "rekt": "2022-10-26 17:57:47 +0800",
+      "pig_training": "2022-10-26 17:57:48 +0800",
+      "engineer": "2022-10-26 17:57:47 +0800",
+      "jumping_jacks": "2022-10-26 17:57:47 +0800",
+      "ya_like_jazz": "2022-10-26 17:57:48 +0800",
+      "oresome": "2022-10-26 17:57:47 +0800",
+      "an_apple_a_day": "2022-10-26 17:57:47 +0800",
+      "global_vaccination": "2022-10-26 17:57:48 +0800",
+      "my_eyes": "2022-10-26 17:57:47 +0800",
+      "house_of_psychos": "2022-10-26 17:57:47 +0800",
+      "building_milestone": "2022-10-26 17:57:47 +0800",
+      "lush_hour": "2022-10-26 17:57:47 +0800",
+      "when_pigs_used_to_fly": "2022-10-26 17:57:47 +0800",
+      "moskstraumen": "2022-10-26 17:57:48 +0800",
+      "top_of_the_world": "2022-10-26 17:57:48 +0800",
+      "fruit_of_the_looms": "2022-10-26 17:57:48 +0800",
+      "nocturnal": "2022-10-26 17:57:48 +0800",
+      "lichen_subscribe": "2022-10-26 17:57:47 +0800",
+      "enchanter": "2022-10-26 17:57:48 +0800",
+      "rock_polish": "2022-10-26 17:57:47 +0800",
+      "magma_cube_squisher": "2022-10-26 17:57:47 +0800",
+      "fortunate_son": "2022-10-26 17:57:48 +0800",
+      "ender_worm": "2022-10-26 17:57:48 +0800",
+      "ghostbuster": "2022-10-26 17:57:48 +0800",
+      "full_stomach": "2022-10-26 17:57:47 +0800",
+      "mining_root": "2022-10-26 17:57:47 +0800",
+      "prime_specimen": "2022-10-26 17:57:48 +0800",
+      "tarzan": "2022-10-26 17:57:47 +0800",
+      "everybody_loves_ice": "2022-10-26 17:57:47 +0800",
+      "cerulean": "2022-10-26 17:57:47 +0800",
+      "not_today_thank_you": "2022-10-26 17:57:48 +0800",
+      "cowboy": "2022-10-26 17:57:47 +0800",
+      "slime_squisher": "2022-10-26 17:57:47 +0800",
+      "local_brewery": "2022-10-26 17:57:47 +0800",
+      "one_with_the_forest": "2022-10-26 17:57:47 +0800",
+      "tripping_over": "2022-10-26 17:57:47 +0800",
+      "master_axeman": "2022-10-26 17:57:47 +0800",
+      "spooky_skulls": "2022-10-26 17:57:47 +0800",
+      "ew_ew_ew": "2022-10-26 17:57:47 +0800",
+      "kilometre_walk": "2022-10-26 17:57:47 +0800",
+      "cut_in_half": "2022-10-26 17:57:47 +0800",
+      "heavy_metal": "2022-10-26 17:57:47 +0800",
+      "the_perfect_run": "2022-10-26 17:57:47 +0800",
+      "spreading_corruption": "2022-10-26 17:57:47 +0800",
+      "we_need_to_go_deeper": "2022-10-26 17:57:48 +0800",
+      "dead_dont_die": "2022-10-26 17:57:47 +0800",
+      "war_pigs": "2022-10-26 17:57:47 +0800",
+      "body_guard": "2022-10-26 17:57:47 +0800",
+      "luxury_cruise": "2022-10-26 17:57:48 +0800",
+      "treasure_hunter": "2022-10-26 17:57:48 +0800",
+      "a_rather_pointy_fence_post": "2022-10-26 17:57:47 +0800",
+      "my_work_here_is_done": "2022-10-26 17:57:48 +0800",
+      "the_devils_distance": "2022-10-26 17:57:47 +0800",
+      "basketblock_championship": "2022-10-26 17:57:47 +0800",
+      "redstone_milestone": "2022-10-26 17:57:47 +0800",
+      "holy_scrap": "2022-10-26 17:57:47 +0800",
+      "pupil_poppers": "2022-10-26 17:57:47 +0800",
+      "particle_fan": "2022-10-26 17:57:47 +0800",
+      "the_meloncholy_dane": "2022-10-26 17:57:47 +0800",
+      "monsters_milestone": "2022-10-26 17:57:47 +0800",
+      "master_digger": "2022-10-26 17:57:47 +0800",
+      "mineral_collection": "2022-10-26 17:57:47 +0800",
+      "master_logger": "2022-10-26 17:57:48 +0800",
+      "noteworthy": "2022-10-26 17:57:48 +0800",
+      "shield_luck": "2022-10-26 17:57:48 +0800",
+      "prepare_to_meet_your_loom": "2022-10-26 17:57:47 +0800",
+      "pork_chop": "2022-10-26 17:57:47 +0800",
+      "feeling_ill": "2022-10-26 17:57:48 +0800",
+      "complete_enchanter": "2022-10-26 17:57:47 +0800",
+      "god_of_thunder": "2022-10-26 17:57:47 +0800",
+      "the_start_of_something": "2022-10-26 17:57:47 +0800",
+      "indiana_jones": "2022-10-26 17:57:48 +0800",
+      "great_view_from_up_here": "2022-10-26 17:57:48 +0800",
+      "diamonds": "2022-10-26 17:57:47 +0800",
+      "eeuuwww": "2022-10-26 17:57:48 +0800",
+      "potion_milestone": "2022-10-26 17:57:48 +0800",
+      "beaconator": "2022-10-26 17:57:48 +0800",
+      "knocking_your_socks_off": "2022-10-26 17:57:48 +0800",
+      "gold_mine": "2022-10-26 17:57:47 +0800",
+      "ring_of_the_end": "2022-10-26 17:57:48 +0800",
+      "still_talking": "2022-10-26 17:57:47 +0800",
+      "halloween": "2022-10-26 17:57:48 +0800",
+      "moar_tools": "2022-10-26 17:57:47 +0800",
+      "free_the_end": "2022-10-26 17:57:48 +0800",
+      "redstone_miner": "2022-10-26 17:57:47 +0800",
+      "anti_gravity_generator": "2022-10-26 17:57:47 +0800",
+      "death_from_all": "2022-10-26 17:57:47 +0800",
+      "bow_spammer": "2022-10-26 17:57:48 +0800",
+      "are_we_there_yet": "2022-10-26 17:57:48 +0800",
+      "shotbow": "2022-10-26 17:57:47 +0800",
+      "obsidian_miner": "2022-10-26 17:57:48 +0800",
+      "over_overkill": "2022-10-26 17:57:47 +0800",
+      "monsters_root": "2022-10-26 17:57:48 +0800",
+      "spikey": "2022-10-26 17:57:47 +0800",
+      "iskallium_collector": "2022-10-26 17:57:48 +0800",
+      "fireworks_display": "2022-10-26 17:57:47 +0800",
+      "quirky_quartz": "2022-10-26 17:57:48 +0800",
+      "voyage": "2022-10-26 17:57:47 +0800",
+      "extrabiologist": "2022-10-26 17:57:48 +0800",
+      "two_birds_one_arrow": "2022-10-26 17:57:48 +0800",
+      "zork_chop": "2022-10-26 17:57:47 +0800",
+      "postmortal": "2022-10-26 17:57:48 +0800",
+      "pressure_detector": "2022-10-26 17:57:47 +0800",
+      "boned": "2022-10-26 17:57:47 +0800",
+      "die_potato": "2022-10-26 17:57:47 +0800",
+      "solar_power": "2022-10-26 17:57:47 +0800",
+      "i_enjoy_long_walks_and_playing_minecraft": "2022-10-26 17:57:47 +0800",
+      "creepers_and_withers": "2022-10-26 17:57:47 +0800",
+      "all_aboard": "2022-10-26 17:57:47 +0800",
+      "not_today": "2022-10-26 17:57:48 +0800",
+      "the_jungler": "2022-10-26 17:57:48 +0800",
+      "diamonds_to_you": "2022-10-26 17:57:47 +0800",
+      "a_terrible_fortress": "2022-10-26 17:57:47 +0800",
+      "professor_birch": "2022-10-26 17:57:47 +0800",
+      "what_a_creep": "2022-10-26 17:57:47 +0800",
+      "wax_off": "2022-10-26 17:57:47 +0800",
+      "redstone_root": "2022-10-26 17:57:48 +0800",
+      "tickle_time": "2022-10-26 17:57:48 +0800",
+      "its_where_nutella_comes_from": "2022-10-26 17:57:47 +0800",
+      "a_piglins_best_friend": "2022-10-26 17:57:48 +0800",
+      "me_love_cookie": "2022-10-26 17:57:47 +0800",
+      "agent_smithing_table": "2022-10-26 17:57:48 +0800",
+      "fake_stronghold": "2022-10-26 17:57:47 +0800",
+      "so_hungry_i_could_eat_a_horse": "2022-10-26 17:57:47 +0800",
+      "axeman": "2022-10-26 17:57:47 +0800",
+      "hey_look_mom": "2022-10-26 17:57:47 +0800",
+      "the_ritual_begins": "2022-10-26 17:57:48 +0800",
+      "slenderman": "2022-10-26 17:57:48 +0800",
+      "nananananananana": "2022-10-26 17:57:47 +0800",
+      "scuttler": "2022-10-26 17:57:47 +0800",
+      "revenge": "2022-10-26 17:57:48 +0800",
+      "shovel_knight": "2022-10-26 17:57:47 +0800",
+      "war_is_coming": "2022-10-26 17:57:48 +0800",
+      "electric": "2022-10-26 17:57:47 +0800",
+      "dry_spell": "2022-10-26 17:57:48 +0800",
+      "chatterbox": "2022-10-26 17:57:47 +0800",
+      "concrete_evidence": "2022-10-26 17:57:47 +0800",
+      "dark_ages": "2022-10-26 17:57:47 +0800",
+      "mr_bean": "2022-10-26 17:57:48 +0800",
+      "rainbow_dreams": "2022-10-26 17:57:48 +0800",
+      "greek_art_decor": "2022-10-26 17:57:48 +0800",
+      "blackstonehenge": "2022-10-26 17:57:47 +0800",
+      "master_netherite_miner": "2022-10-26 17:57:48 +0800",
+      "you_lead_ill_follow": "2022-10-26 17:57:47 +0800",
+      "live_and_let_dye": "2022-10-26 17:57:48 +0800",
+      "death_by_magic": "2022-10-26 17:57:48 +0800",
+      "naturally_carved": "2022-10-26 17:57:48 +0800",
+      "unmasked": "2022-10-26 17:57:47 +0800",
+      "fiery": "2022-10-26 17:57:48 +0800",
+      "rainbow_collection": "2022-10-26 17:57:47 +0800",
+      "potion_master": "2022-10-26 17:57:47 +0800",
+      "dont_blink": "2022-10-26 17:57:47 +0800",
+      "skys_the_limit": "2022-10-26 17:57:47 +0800",
+      "gi_geode": "2022-10-26 17:57:47 +0800",
+      "spider_smasher": "2022-10-26 17:57:48 +0800",
+      "master_enchanter": "2022-10-26 17:57:48 +0800",
+      "a_throwaway_joke": "2022-10-26 17:57:47 +0800",
+      "mozart": "2022-10-26 17:57:48 +0800",
+      "atlantis": "2022-10-26 17:57:47 +0800",
+      "master_sniper": "2022-10-26 17:57:47 +0800",
+      "hell_botanist": "2022-10-26 17:57:48 +0800",
+      "this_snow_is_snowier": "2022-10-26 17:57:47 +0800",
+      "farming_milestone": "2022-10-26 17:57:47 +0800",
+      "bamboom": "2022-10-26 17:57:47 +0800",
+      "gas_bomb": "2022-10-26 17:57:48 +0800",
+      "baby_baby_baby_noo": "2022-10-26 17:57:48 +0800",
+      "camping_out": "2022-10-26 17:57:48 +0800",
+      "milkshroom": "2022-10-26 17:57:47 +0800",
+      "miracle_drink": "2022-10-26 17:57:47 +0800",
+      "time_to_farm": "2022-10-26 17:57:48 +0800",
+      "pandamonium": "2022-10-26 17:57:47 +0800",
+      "pig_fishing_tournament": "2022-10-26 17:57:47 +0800",
+      "swine_sailing": "2022-10-26 17:57:47 +0800",
+      "sky_high": "2022-10-26 17:57:48 +0800",
+      "must_be_your_birthday": "2022-10-26 17:57:47 +0800",
+      "birdkeeper": "2022-10-26 17:57:47 +0800",
+      "picador": "2022-10-26 17:57:48 +0800",
+      "change_of_sheets": "2022-10-26 17:57:48 +0800",
+      "big_spender": "2022-10-26 17:57:47 +0800",
+      "enderman_destroyer": "2022-10-26 17:57:48 +0800",
+      "oh_look_it_dings": "2022-10-26 17:57:47 +0800",
+      "cold_feet": "2022-10-26 17:57:48 +0800",
+      "decaying_beauty": "2022-10-26 17:57:48 +0800",
+      "sticky_parts": "2022-10-26 17:57:47 +0800",
+      "rock_collection": "2022-10-26 17:57:47 +0800",
+      "statistics_root": "2022-10-26 17:57:47 +0800",
+      "poultry_boy": "2022-10-26 17:57:48 +0800",
+      "hot_reels": "2022-10-26 17:57:48 +0800",
+      "glowing": "2022-10-26 17:57:47 +0800",
+      "what_a_piece_of_junk": "2022-10-26 17:57:47 +0800",
+      "diamond_miner": "2022-10-26 17:57:47 +0800",
+      "sly_copper_the_copper_heist": "2022-10-26 17:57:48 +0800",
+      "im_coming_back_murph": "2022-10-26 17:57:47 +0800",
+      "subspace_bubble": "2022-10-26 17:57:47 +0800",
+      "let_it_go": "2022-10-26 17:57:47 +0800",
+      "whatever_floats_your_goat": "2022-10-26 17:57:47 +0800",
+      "ahoy": "2022-10-26 17:57:48 +0800",
+      "highway_to_hell": "2022-10-26 17:57:48 +0800",
+      "the_struggle_nether_ends": "2022-10-26 17:57:48 +0800",
+      "village_settler": "2022-10-26 17:57:47 +0800",
+      "hero_of_the_village": "2022-10-26 17:57:47 +0800",
+      "raidin_master": "2022-10-26 17:57:47 +0800",
+      "rocketman": "2022-10-26 17:57:47 +0800",
+      "powerful_light": "2022-10-26 17:57:47 +0800",
+      "spider_skeleton": "2022-10-26 17:57:48 +0800",
+      "take_notes": "2022-10-26 17:57:47 +0800",
+      "the_tribal_snouts": "2022-10-26 17:57:47 +0800",
+      "metal_plate": "2022-10-26 17:57:47 +0800",
+      "gotta_go_fast": "2022-10-26 17:57:47 +0800",
+      "master_farrier": "2022-10-26 17:57:48 +0800",
+      "whole_hog": "2022-10-26 17:57:47 +0800",
+      "businessman": "2022-10-26 17:57:48 +0800",
+      "master_knight": "2022-10-26 17:57:48 +0800",
+      "glowstone_miner": "2022-10-26 17:57:47 +0800",
+      "statistics_milestone": "2022-10-26 17:57:47 +0800",
+      "pathways": "2022-10-26 17:57:47 +0800",
+      "aww_it_broke": "2022-10-26 17:57:47 +0800",
+      "a_soul_for_a_soul": "2022-10-26 17:57:48 +0800",
+      "castaway": "2022-10-26 17:57:47 +0800",
+      "a_furious_test_subject": "2022-10-26 17:57:48 +0800",
+      "sheriff_firearm": "2022-10-26 17:57:47 +0800",
+      "cephalight": "2022-10-26 17:57:47 +0800",
+      "ricochet_swoop": "2022-10-26 17:57:47 +0800",
+      "dragon_army": "2022-10-26 17:57:47 +0800",
+      "moving_storage": "2022-10-26 17:57:47 +0800",
+      "rebuilding_the_oceans": "2022-10-26 17:57:48 +0800",
+      "pick_like_silk": "2022-10-26 17:57:48 +0800",
+      "ill_be_back": "2022-10-26 17:57:48 +0800",
+      "seeing_red": "2022-10-26 17:57:47 +0800",
+      "overgrown": "2022-10-26 17:57:47 +0800",
+      "challenges_root": "2022-10-26 17:57:48 +0800",
+      "failed_concoctions": "2022-10-26 17:57:47 +0800",
+      "foxy_thievery": "2022-10-26 17:57:48 +0800",
+      "ladder_climbers_inc": "2022-10-26 17:57:47 +0800",
+      "lightning_mcpig": "2022-10-26 17:57:47 +0800",
+      "the_sea_calls_you": "2022-10-26 17:57:47 +0800",
+      "tank": "2022-10-26 17:57:48 +0800",
+      "spelunker": "2022-10-26 17:57:48 +0800",
+      "and_open": "2022-10-26 17:57:47 +0800",
+      "nether_root": "2022-10-26 17:57:48 +0800",
+      "ecologist": "2022-10-26 17:57:47 +0800",
+      "diemonds": "2022-10-26 17:57:47 +0800",
+      "beacon_overlord": "2022-10-26 17:57:48 +0800",
+      "remote_getaway": "2022-10-26 17:57:47 +0800",
+      "enchanted_forest": "2022-10-26 17:57:47 +0800",
+      "like_a_cat": "2022-10-26 17:57:47 +0800",
+      "comparing_comparator": "2022-10-26 17:57:47 +0800",
+      "where_are_all_your_clothes": "2022-10-26 17:57:47 +0800",
+      "tactical_fishing": "2022-10-26 17:57:47 +0800",
+      "fake_monument": "2022-10-26 17:57:47 +0800",
+      "undead_slayer": "2022-10-26 17:57:47 +0800",
+      "the_end_again": "2022-10-26 17:57:47 +0800",
+      "poseidon_vs_hades": "2022-10-26 17:57:47 +0800",
+      "beethoven": "2022-10-26 17:57:48 +0800",
+      "en_garde": "2022-10-26 17:57:48 +0800",
+      "serious_dedication": "2022-10-26 17:57:48 +0800",
+      "uneasy_alliance": "2022-10-26 17:57:47 +0800",
+      "bapple": "2022-10-26 17:57:47 +0800",
+      "ad_astra": "2022-10-26 17:57:47 +0800",
+      "a_shiny_treat": "2022-10-26 17:57:47 +0800",
+      "pixel_perfect": "2022-10-26 17:57:47 +0800",
+      "mining_milestone": "2022-10-26 17:57:47 +0800",
+      "stem_research": "2022-10-26 17:57:48 +0800",
+      "paleontologist": "2022-10-26 17:57:48 +0800",
+      "how_did_we_get_here": "2022-10-26 17:57:47 +0800",
+      "instant_mining": "2022-10-26 17:57:47 +0800",
+      "wheres_the_honey_lebowski": "2022-10-26 17:57:47 +0800",
+      "fluorescent": "2022-10-26 17:57:48 +0800",
+      "smokin_hot": "2022-10-26 17:57:47 +0800",
+      "legend_of_hell_chicken_riders": "2022-10-26 17:57:48 +0800",
+      "skeleton_smiter": "2022-10-26 17:57:47 +0800",
+      "master_gold_miner": "2022-10-26 17:57:47 +0800",
+      "kung_fu_panda": "2022-10-26 17:57:48 +0800",
+      "sheariously": "2022-10-26 17:57:47 +0800",
+      "even_moar_tools": "2022-10-26 17:57:47 +0800",
+      "shady_deals": "2022-10-26 17:57:47 +0800",
+      "trimming_the_treetops": "2022-10-26 17:57:47 +0800",
+      "rock_paper_shears": "2022-10-26 17:57:47 +0800",
+      "berry_nice": "2022-10-26 17:57:47 +0800",
+      "isnt_it_iron_pick": "2022-10-26 17:57:48 +0800",
+      "newtons_flaming_laser_sword": "2022-10-26 17:57:47 +0800",
+      "limbo_walker": "2022-10-26 17:57:48 +0800",
+      "netherite_miner": "2022-10-26 17:57:48 +0800",
+      "now_youre_thinking_with_portals": "2022-10-26 17:57:47 +0800",
+      "were_going_on_a_bear_hunt": "2022-10-26 17:57:47 +0800",
+      "out_for_a_stroll": "2022-10-26 17:57:48 +0800",
+      "king_of_the_sea": "2022-10-26 17:57:47 +0800",
+      "poison_dart": "2022-10-26 17:57:48 +0800",
+      "zombie_apocalypse": "2022-10-26 17:57:47 +0800",
+      "in_a_pickle": "2022-10-26 17:57:47 +0800",
+      "veteran_of_the_village": "2022-10-26 17:57:48 +0800",
+      "shroom_lightyear": "2022-10-26 17:57:47 +0800",
+      "the_mistake": "2022-10-26 17:57:48 +0800",
+      "colors_of_the_wind": "2022-10-26 17:57:47 +0800",
+      "delicious_hot_schmoes": "2022-10-26 17:57:47 +0800",
+      "when_pigs_finally_fly": "2022-10-26 17:57:47 +0800",
+      "shoe_shed": "2022-10-26 17:57:48 +0800",
+      "zombie_slayer": "2022-10-26 17:57:47 +0800",
+      "armor_display": "2022-10-26 17:57:48 +0800",
+      "for_you_my_sweet": "2022-10-26 17:57:47 +0800",
+      "endergeddon": "2022-10-26 17:57:48 +0800",
+      "your_daily_fix": "2022-10-26 17:57:47 +0800",
+      "the_glazed_terracotta_army": "2022-10-26 17:57:48 +0800",
+      "in_your_face_neil_armstrong": "2022-10-26 17:57:47 +0800",
+      "captain_etho": "2022-10-26 17:57:48 +0800",
+      "bacon": "2022-10-26 17:57:48 +0800",
+      "pirate_captain": "2022-10-26 17:57:48 +0800",
+      "ghast_slayer": "2022-10-26 17:57:47 +0800",
+      "nether_say_die": "2022-10-26 17:57:47 +0800",
+      "abyss_lord": "2022-10-26 17:57:48 +0800",
+      "that_is_so_fletch": "2022-10-26 17:57:47 +0800",
+      "disen_berry_berry_bad": "2022-10-26 17:57:47 +0800",
+      "ooh_baby": "2022-10-26 17:57:47 +0800",
+      "bee_our_guest": "2022-10-26 17:57:48 +0800",
+      "hopping_mad": "2022-10-26 17:57:47 +0800",
+      "have_a_shearful_day": "2022-10-26 17:57:48 +0800",
+      "natural_fertiliser": "2022-10-26 17:57:47 +0800",
+      "moar_broken_tools": "2022-10-26 17:57:47 +0800",
+      "slapfish": "2022-10-26 17:57:48 +0800",
+      "hyper_healing": "2022-10-26 17:57:47 +0800",
+      "caves_and_cliffs": "2022-10-26 17:57:47 +0800",
+      "heres_johnny": "2022-10-26 17:57:47 +0800",
+      "master_farmer": "2022-10-26 17:57:47 +0800",
+      "going_down_the_rabbit_hole": "2022-10-26 17:57:47 +0800",
+      "master_miner": "2022-10-26 17:57:47 +0800",
+      "time_to_fire_back": "2022-10-26 17:57:48 +0800",
+      "giant_floating_jellyfish": "2022-10-26 17:57:47 +0800",
+      "lion_hunter": "2022-10-26 17:57:48 +0800",
+      "good_for_your_bones": "2022-10-26 17:57:48 +0800",
+      "sushi": "2022-10-26 17:57:47 +0800",
+      "its_a_cactus": "2022-10-26 17:57:48 +0800",
+      "trampoline": "2022-10-26 17:57:47 +0800",
+      "railwayman": "2022-10-26 17:57:47 +0800",
+      "the_statue_of_liberty": "2022-10-26 17:57:48 +0800",
+      "hay_there": "2022-10-26 17:57:47 +0800",
+      "eye_spy": "2022-10-26 17:57:47 +0800",
+      "the_parrots_and_the_bats": "2022-10-26 17:57:47 +0800",
+      "i_hereby_dub_thee": "2022-10-26 17:57:47 +0800",
+      "display_your_items_for_all_to_see": "2022-10-26 17:57:48 +0800",
+      "torched": "2022-10-26 17:57:47 +0800",
+      "all_the_blocks": "2022-10-26 17:57:47 +0800",
+      "hot_tourist_destination": "2022-10-26 17:57:47 +0800",
+      "i_like_trains": "2022-10-26 17:57:47 +0800",
+      "rare_candy_shop": "2022-10-26 17:57:47 +0800",
+      "fuzzy_feet": "2022-10-26 17:57:47 +0800",
+      "olympic_gold_medallist": "2022-10-26 17:57:47 +0800",
+      "blast_it": "2022-10-26 17:57:48 +0800",
+      "curses": "2022-10-26 17:57:47 +0800",
+      "scuba_gear": "2022-10-26 17:57:48 +0800",
+      "when_piglins_fly": "2022-10-26 17:57:48 +0800",
+      "i_dont_like_sand": "2022-10-26 17:57:48 +0800",
+      "ten_thousand_blocks": "2022-10-26 17:57:47 +0800",
+      "chestful_of_cobblestone": "2022-10-26 17:57:47 +0800",
+      "barrel_rider": "2022-10-26 17:57:48 +0800",
+      "we_got_a_live_one": "2022-10-26 17:57:48 +0800",
+      "target_acquired": "2022-10-26 17:57:48 +0800",
+      "dungeons_and_spawners": "2022-10-26 17:57:47 +0800",
+      "lodes_of_applications": "2022-10-26 17:57:47 +0800",
+      "what_a_fungi": "2022-10-26 17:57:47 +0800",
+      "passing_the_time": "2022-10-26 17:57:48 +0800",
+      "this_dirt_is_dirtier": "2022-10-26 17:57:47 +0800",
+      "nuclear_fusion": "2022-10-26 17:57:47 +0800",
+      "troll_chest": "2022-10-26 17:57:47 +0800",
+      "im_gonna_be_sick": "2022-10-26 17:57:47 +0800",
+      "this_is_mine_now": "2022-10-26 17:57:47 +0800",
+      "tomb_raider": "2022-10-26 17:57:47 +0800",
+      "heart_of_darkness": "2022-10-26 17:57:47 +0800",
+      "stockbroker": "2022-10-26 17:57:48 +0800",
+      "catching_nemo": "2022-10-26 17:57:47 +0800",
+      "loser": "2022-10-26 17:57:48 +0800",
+      "a_wizards_breakfast": "2022-10-26 17:57:47 +0800",
+      "turtle_soldier": "2022-10-26 17:57:47 +0800",
+      "bricks": "2022-10-26 17:57:47 +0800",
+      "billy_the_kid": "2022-10-26 17:57:47 +0800",
+      "yay_deadbush": "2022-10-26 17:57:48 +0800",
+      "flower_power": "2022-10-26 17:57:47 +0800",
+      "colorful_cavalry": "2022-10-26 17:57:47 +0800",
+      "pushed_around": "2022-10-26 17:57:47 +0800",
+      "the_great_blocky_reef": "2022-10-26 17:57:47 +0800",
+      "fake_fortress": "2022-10-26 17:57:47 +0800",
+      "riot_shield": "2022-10-26 17:57:47 +0800",
+      "creepy_heads": "2022-10-26 17:57:47 +0800",
+      "master_coal_miner": "2022-10-26 17:57:47 +0800",
+      "pig_slaughterer": "2022-10-26 17:57:47 +0800",
+      "basis_of_brewing": "2022-10-26 17:57:48 +0800",
+      "stripper": "2022-10-26 17:57:47 +0800",
+      "its_a_sign": "2022-10-26 17:57:47 +0800",
+      "frequent_flyer": "2022-10-26 17:57:47 +0800",
+      "all_chained_up": "2022-10-26 17:57:48 +0800",
+      "deepslate_conspiracy": "2022-10-26 17:57:47 +0800",
+      "coal_miner": "2022-10-26 17:57:47 +0800",
+      "living_like_kings": "2022-10-26 17:57:47 +0800",
+      "rock_bottom": "2022-10-26 17:57:47 +0800",
+      "filthy_stinkin_rich": "2022-10-26 17:57:48 +0800",
+      "ultimate_enchanter": "2022-10-26 17:57:47 +0800",
+      "void_walker": "2022-10-26 17:57:47 +0800",
+      "gilty": "2022-10-26 17:57:48 +0800",
+      "constellation": "2022-10-26 17:57:47 +0800",
+      "yay_i_got_my_wood": "2022-10-26 17:57:47 +0800",
+      "weaponry_milestone": "2022-10-26 17:57:48 +0800",
+      "ultra_hardcore": "2022-10-26 17:57:47 +0800",
+      "theres_a_zombie_on_the_lawn": "2022-10-26 17:57:47 +0800",
+      "organizational_wizard": "2022-10-26 17:57:47 +0800",
+      "end_milestone": "2022-10-26 17:57:47 +0800",
+      "bombs_away": "2022-10-26 17:57:47 +0800",
+      "master_armorer": "2022-10-26 17:57:48 +0800",
+      "the_rainbow_you_always_wanted": "2022-10-26 17:57:47 +0800",
+      "animal_milestone": "2022-10-26 17:57:47 +0800",
+      "bulldozer": "2022-10-26 17:57:47 +0800",
+      "overpowered": "2022-10-26 17:57:47 +0800",
+      "who_needs_boats": "2022-10-26 17:57:48 +0800",
+      "a_complete_catalogue": "2022-10-26 17:57:48 +0800",
+      "the_lie": "2022-10-26 17:57:48 +0800",
+      "iron_miner": "2022-10-26 17:57:47 +0800",
+      "the_hunt_begins": "2022-10-26 17:57:48 +0800",
+      "dripstone_drop": "2022-10-26 17:57:48 +0800",
+      "phantom_slayer": "2022-10-26 17:57:47 +0800",
+      "do_a_barrel_roll": "2022-10-26 17:57:47 +0800",
+      "melting": "2022-10-26 17:57:47 +0800",
+      "the_first_night": "2022-10-26 17:57:47 +0800",
+      "art_gallery": "2022-10-26 17:57:47 +0800",
+      "aquatic_biofuel": "2022-10-26 17:57:47 +0800",
+      "magical_stockpile": "2022-10-26 17:57:48 +0800",
+      "true_feather_falling": "2022-10-26 17:57:48 +0800",
+      "turtle_army": "2022-10-26 17:57:47 +0800",
+      "global_railway_network": "2022-10-26 17:57:48 +0800",
+      "just_a_sample": "2022-10-26 17:57:47 +0800",
+      "country_lode_take_me_home": "2022-10-26 17:57:47 +0800",
+      "diam_oh_wait_no": "2022-10-26 17:57:47 +0800",
+      "arbalistic": "2022-10-26 17:57:48 +0800",
+      "boomerang": "2022-10-26 17:57:47 +0800",
+      "sneaky_snitch": "2022-10-26 17:57:48 +0800",
+      "et_tu_brute": "2022-10-26 17:57:47 +0800",
+      "skyblock": "2022-10-26 17:57:48 +0800",
+      "meat_lovers": "2022-10-26 17:57:47 +0800",
+      "harry_potter": "2022-10-26 17:57:47 +0800",
+      "its_so_beast_like": "2022-10-26 17:57:47 +0800",
+      "stairs_no": "2022-10-26 17:57:48 +0800",
+      "ludicrous_speed": "2022-10-26 17:57:48 +0800",
+      "needle_sharp": "2022-10-26 17:57:47 +0800",
+      "moar_upgraded_tools": "2022-10-26 17:57:48 +0800",
+      "the_tribal_villagers": "2022-10-26 17:57:48 +0800",
+      "winnie_the_pooh": "2022-10-26 17:57:47 +0800",
+      "souperman": "2022-10-26 17:57:47 +0800",
+      "hot_tub": "2022-10-26 17:57:48 +0800",
+      "master_iron_miner": "2022-10-26 17:57:47 +0800",
+      "rest_in_pickaxes": "2022-10-26 17:57:47 +0800",
+      "theres_yolk_on_my_head": "2022-10-26 17:57:47 +0800",
+      "unbreakable": "2022-10-26 17:57:48 +0800",
+      "artificial_selection": "2022-10-26 17:57:47 +0800",
+      "adventuring_time": "2022-10-26 17:57:48 +0800",
+      "monumental": "2022-10-26 17:57:47 +0800",
+      "lost_its_bark": "2022-10-26 17:57:47 +0800",
+      "get_a_lode_of_this": "2022-10-26 17:57:48 +0800",
+      "wooly": "2022-10-26 17:57:47 +0800",
+      "boing_boing": "2022-10-26 17:57:47 +0800",
+      "murderer": "2022-10-26 17:57:48 +0800",
+      "this_ones_mine": "2022-10-26 17:57:48 +0800",
+      "a_masterpiece": "2022-10-26 17:57:47 +0800",
+      "flashy_items": "2022-10-26 17:57:48 +0800",
+      "the_sound_of_music": "2022-10-26 17:57:47 +0800",
+      "no_reefing": "2022-10-26 17:57:47 +0800",
+      "those_were_the_days": "2022-10-26 17:57:47 +0800",
+      "frosty": "2022-10-26 17:57:47 +0800",
+      "im_not_lost_anymore": "2022-10-26 17:57:47 +0800",
+      "gelatinous_cube": "2022-10-26 17:57:47 +0800",
+      "is_it_a_bird": "2022-10-26 17:57:47 +0800",
+      "setting_up_the_mood": "2022-10-26 17:57:47 +0800",
+      "emerald_miner": "2022-10-26 17:57:48 +0800",
+      "smooth_operator": "2022-10-26 17:57:48 +0800",
+      "cow_tipper": "2022-10-26 17:57:47 +0800",
+      "because_im_aquaman": "2022-10-26 17:57:47 +0800",
+      "seeing_stars": "2022-10-26 17:57:48 +0800",
+      "were_being_attacked": "2022-10-26 17:57:47 +0800",
+      "lilypad_hatter": "2022-10-26 17:57:48 +0800",
+      "uh_houston_we_have_a_problem": "2022-10-26 17:57:47 +0800",
+      "is_it_a_plane": "2022-10-26 17:57:47 +0800",
+      "spike_ice": "2022-10-26 17:57:47 +0800",
+      "building_root": "2022-10-26 17:57:47 +0800",
+      "purpurfect": "2022-10-26 17:57:48 +0800",
+      "machine_bow": "2022-10-26 17:57:47 +0800",
+      "gas": "2022-10-26 17:57:47 +0800",
+      "keep_your_distance": "2022-10-26 17:57:48 +0800",
+      "in_a_hole_there_lived_a_rabbit": "2022-10-26 17:57:47 +0800",
+      "what_a_pane": "2022-10-26 17:57:47 +0800",
+      "spawn_camping": "2022-10-26 17:57:47 +0800",
+      "somewhere_over_the_rainbow": "2022-10-26 17:57:47 +0800",
+      "super_efficient": "2022-10-26 17:57:47 +0800",
+      "all_the_items": "2022-10-26 17:57:47 +0800",
+      "stack_all_the_items": "2022-10-26 17:57:47 +0800",
+      "a_million_blocks_away": "2022-10-26 17:57:47 +0800",
+      "handmade_blinding": "2022-10-26 17:57:48 +0800",
+      "olaf": "2022-10-26 17:57:48 +0800",
+      "mapmaker": "2022-10-26 17:57:48 +0800",
+      "foal_play": "2022-10-26 17:57:47 +0800",
+      "puppies_yipe": "2022-10-26 17:57:47 +0800",
+      "anchorman": "2022-10-26 17:57:47 +0800",
+      "cool_kids": "2022-10-26 17:57:47 +0800",
+      "total_beelocation": "2022-10-26 17:57:48 +0800",
+      "super_mooshroom": "2022-10-26 17:57:48 +0800",
+      "dragon_vs_wither_the_pre_sequel": "2022-10-26 17:57:48 +0800",
+      "whats_new_with_composting": "2022-10-26 17:57:48 +0800",
+      "the_healing_power_of_friendship": "2022-10-26 17:57:47 +0800",
+      "spruce_lee": "2022-10-26 17:57:47 +0800",
+      "night_runner": "2022-10-26 17:57:48 +0800",
+      "warlock": "2022-10-26 17:57:47 +0800",
+      "ive_got_a_bad_feeling_about_this": "2022-10-26 17:57:48 +0800",
+      "traveller": "2022-10-26 17:57:47 +0800",
+      "thin_ice": "2022-10-26 17:57:48 +0800",
+      "what_a_deal": "2022-10-26 17:57:47 +0800",
+      "end_root": "2022-10-26 17:57:48 +0800",
+      "just_keeps_going": "2022-10-26 17:57:48 +0800",
+      "leader_of_the_pack": "2022-10-26 17:57:47 +0800",
+      "a_furious_cocktail": "2022-10-26 17:57:48 +0800",
+      "the_garbage_will_do": "2022-10-26 17:57:48 +0800",
+      "iceologer_shouldve_won": "2022-10-26 17:57:47 +0800",
+      "direct_fishing": "2022-10-26 17:57:47 +0800",
+      "furious_ammunition": "2022-10-26 17:57:47 +0800",
+      "olympic_athlete": "2022-10-26 17:57:48 +0800",
+      "treasure_map": "2022-10-26 17:57:47 +0800",
+      "mob_hunter": "2022-10-26 17:57:48 +0800",
+      "trick_or_treat": "2022-10-26 17:57:47 +0800",
+      "zeus": "2022-10-26 17:57:47 +0800",
+      "one_pickle_two_pickle_sea_pickle_four": "2022-10-26 17:57:47 +0800",
+      "potion_root": "2022-10-26 17:57:48 +0800",
+      "master_trader": "2022-10-26 17:57:47 +0800",
+      "just_keep_swimming": "2022-10-26 17:57:47 +0800",
+      "gold_rush": "2022-10-26 17:57:48 +0800",
+      "blistering_barnacles": "2022-10-26 17:57:48 +0800",
+      "the_pie": "2022-10-26 17:57:47 +0800",
+      "axeolotl": "2022-10-26 17:57:47 +0800",
+      "getting_an_upgrade": "2022-10-26 17:57:47 +0800",
+      "the_descent": "2022-10-26 17:57:47 +0800",
+      "im_in_space": "2022-10-26 17:57:47 +0800",
+      "scourge_of_the_west": "2022-10-26 17:57:48 +0800",
+      "off_with_his_head": "2022-10-26 17:57:47 +0800",
+      "x_bow": "2022-10-26 17:57:47 +0800",
+      "a_knight_to_nether_forget": "2022-10-26 17:57:48 +0800",
+      "beeloons": "2022-10-26 17:57:48 +0800",
+      "custom_boss_fight": "2022-10-26 17:57:47 +0800",
+      "fool_me_twice": "2022-10-26 17:57:47 +0800",
+      "iconic_merchandising_prop": "2022-10-26 17:57:47 +0800",
+      "well_handle_this": "2022-10-26 17:57:48 +0800",
+      "if_only_cats_grew_into_kittens": "2022-10-26 17:57:47 +0800",
+      "sound_the_alarm": "2022-10-26 17:57:48 +0800",
+      "honey_im_home": "2022-10-26 17:57:47 +0800",
+      "oh_shiny": "2022-10-26 17:57:47 +0800",
+      "sweet_dreams": "2022-10-26 17:57:48 +0800",
+      "spooky_scary_skeleton": "2022-10-26 17:57:47 +0800",
+      "point_blank": "2022-10-26 17:57:47 +0800",
+      "free_diver": "2022-10-26 17:57:48 +0800",
+      "master_fisher": "2022-10-26 17:57:47 +0800",
+      "nether_rock_collection": "2022-10-26 17:57:47 +0800",
+      "a_good_start": "2022-10-26 17:57:47 +0800",
+      "animal_root": "2022-10-26 17:57:48 +0800",
+      "twisted": "2022-10-26 17:57:47 +0800",
+      "workaholic": "2022-10-26 17:57:47 +0800",
+      "glow_and_behold": "2022-10-26 17:57:48 +0800",
+      "baron_of_blacksmiths": "2022-10-26 17:57:48 +0800",
+      "biomes_root": "2022-10-26 17:57:47 +0800",
+      "map_room": "2022-10-26 17:57:47 +0800",
+      "town_planner": "2022-10-26 17:57:47 +0800",
+      "mary_had_a_little_lamb": "2022-10-26 17:57:48 +0800",
+      "repopulation": "2022-10-26 17:57:47 +0800",
+      "electric_rails": "2022-10-26 17:57:48 +0800",
+      "someones_been_here_before": "2022-10-26 17:57:47 +0800",
+      "rabbit_season": "2022-10-26 17:57:48 +0800",
+      "bacap_root": "2022-10-26 17:57:47 +0800",
+      "mannequin": "2022-10-26 17:57:47 +0800",
+      "captain_america": "2022-10-26 17:57:48 +0800",
+      "what_for": "2022-10-26 17:57:47 +0800",
+      "moss_maker": "2022-10-26 17:57:48 +0800",
+      "performance_enhancing_drugs": "2022-10-26 17:57:48 +0800",
+      "the_end": "2022-10-26 17:57:47 +0800",
+      "the_mighty_jungle": "2022-10-26 17:57:47 +0800",
+      "mobile_explosion": "2022-10-26 17:57:47 +0800",
+      "galileo_figaro": "2022-10-26 17:57:47 +0800",
+      "the_beginning": "2022-10-26 17:57:47 +0800",
+      "quartz_miner": "2022-10-26 17:57:48 +0800",
+      "diamond_clad": "2022-10-26 17:57:47 +0800",
+      "the_invisible_player": "2022-10-26 17:57:48 +0800",
+      "dragon_shield": "2022-10-26 17:57:48 +0800",
+      "withering_heights": "2022-10-26 17:57:47 +0800",
+      "weve_broken_our_last_shovel": "2022-10-26 17:57:47 +0800",
+      "justice": "2022-10-26 17:57:48 +0800",
+      "weaponry_root": "2022-10-26 17:57:47 +0800",
+      "under_pressure": "2022-10-26 17:57:47 +0800",
+      "master_diamond_miner": "2022-10-26 17:57:47 +0800",
+      "tuff_stuff": "2022-10-26 17:57:47 +0800",
+      "viking": "2022-10-26 17:57:47 +0800",
+      "master_tridenteer": "2022-10-26 17:57:47 +0800",
+      "happy_birthday": "2022-10-26 17:57:47 +0800",
+      "kelp_me": "2022-10-26 17:57:47 +0800",
+      "explosive_fire": "2022-10-26 17:57:48 +0800",
+      "budget_channeling": "2022-10-26 17:57:47 +0800",
+      "rise_of_the_skeletons": "2022-10-26 17:57:47 +0800",
+      "shulker_breaker": "2022-10-26 17:57:47 +0800",
+      "pane_in_the_glass": "2022-10-26 17:57:47 +0800",
+      "hot_spring": "2022-10-26 17:57:48 +0800",
+      "the_melon_the_melon_the_melon": "2022-10-26 17:57:47 +0800",
+      "diamonds_are_not_forever": "2022-10-26 17:57:47 +0800",
+      "adventure_root": "2022-10-26 17:57:48 +0800",
+      "bullseye": "2022-10-26 17:57:47 +0800",
+      "buy_low_sell_high": "2022-10-26 17:57:47 +0800",
+      "getting_into_a_stew": "2022-10-26 17:57:48 +0800",
+      "sugar_sugar": "2022-10-26 17:57:48 +0800",
+      "youll_never_take_me_alive_copper": "2022-10-26 17:57:48 +0800",
+      "whats_the_time_mr_wolf": "2022-10-26 17:57:47 +0800",
+      "stonks": "2022-10-26 17:57:47 +0800",
+      "master_shieldsman": "2022-10-26 17:57:47 +0800",
+      "x_marks_the_spot": "2022-10-26 17:57:48 +0800",
+      "hearts_of_the_stack": "2022-10-26 17:57:47 +0800",
+      "a_weak_brew": "2022-10-26 17:57:48 +0800",
+      "on_a_rail": "2022-10-26 17:57:48 +0800",
+      "this_ride_is_lit_yo": "2022-10-26 17:57:48 +0800",
+      "amethyst_miner": "2022-10-26 17:57:47 +0800",
+      "knowledge_is_power": "2022-10-26 17:57:47 +0800",
+      "stayin_frosty": "2022-10-26 17:57:47 +0800",
+      "journeyman_enchanter": "2022-10-26 17:57:48 +0800",
+      "take_to_the_skies": "2022-10-26 17:57:47 +0800",
+      "raise_the_flag": "2022-10-26 17:57:48 +0800",
+      "when_hoglins_breed": "2022-10-26 17:57:48 +0800",
+      "the_acacia_king": "2022-10-26 17:57:47 +0800",
+      "camouflage": "2022-10-26 17:57:48 +0800",
+      "multiclassed": "2022-10-26 17:57:47 +0800",
+      "glows_in_the_dark": "2022-10-26 17:57:48 +0800",
+      "monsters_hunted": "2022-10-26 17:57:47 +0800",
+      "bobbleheads": "2022-10-26 17:57:47 +0800",
+      "the_haggler": "2022-10-26 17:57:47 +0800",
+      "an_amazing_story": "2022-10-26 17:57:48 +0800",
+      "the_actual_end": "2022-10-26 17:57:48 +0800",
+      "mega_mushroom": "2022-10-26 17:57:48 +0800",
+      "festival_of_lights": "2022-10-26 17:57:47 +0800",
+      "laps_in_the_pool": "2022-10-26 17:57:47 +0800",
+      "lead_the_way": "2022-10-26 17:57:47 +0800",
+      "grave_robber": "2022-10-26 17:57:48 +0800",
+      "expensive": "2022-10-26 17:57:48 +0800",
+      "feeling_sheepish": "2022-10-26 17:57:48 +0800",
+      "explorer_of_worlds": "2022-10-26 17:57:47 +0800",
+      "lucky_charm": "2022-10-26 17:57:47 +0800",
+      "a_balanced_diet": "2022-10-26 17:57:47 +0800",
+      "dive_bomb": "2022-10-26 17:57:48 +0800",
+      "hells_bells": "2022-10-26 17:57:47 +0800",
+      "let_me_out": "2022-10-26 17:57:47 +0800",
+      "dolphin_dasher": "2022-10-26 17:57:47 +0800",
+      "enchanting_milestone": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/branch7_end": {
+    "criteria": {
+      "root": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/who_needs_boats": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/mob_hunter": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/wheres_the_honey_lebowski": {
+    "criteria": {
+      "ten_withers": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/for_you_my_sweet": {
+    "criteria": {
+      "sunflower": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/nugget_in_a_biscuit": {
+    "criteria": {
+      "mine_nether_gold_ore": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/animal_milestone": {
+    "criteria": {
+      "mooshroom_kingdom": "2022-10-26 17:57:48 +0800",
+      "foal_play": "2022-10-26 17:57:47 +0800",
+      "puppies_yipe": "2022-10-26 17:57:47 +0800",
+      "true_cow_tipper": "2022-10-26 17:57:47 +0800",
+      "cool_kids": "2022-10-26 17:57:47 +0800",
+      "rainbow_collection": "2022-10-26 17:57:47 +0800",
+      "total_beelocation": "2022-10-26 17:57:47 +0800",
+      "a_horse_in_shining_armor": "2022-10-26 17:57:47 +0800",
+      "super_mooshroom": "2022-10-26 17:57:48 +0800",
+      "wheres_the_honey_lebowski": "2022-10-26 17:57:47 +0800",
+      "the_healing_power_of_friendship": "2022-10-26 17:57:48 +0800",
+      "blackberry_market": "2022-10-26 17:57:47 +0800",
+      "sheariously": "2022-10-26 17:57:47 +0800",
+      "bunny_lover": "2022-10-26 17:57:47 +0800",
+      "snow_fox_64": "2022-10-26 17:57:47 +0800",
+      "just_keeps_going": "2022-10-26 17:57:47 +0800",
+      "cowboy": "2022-10-26 17:57:47 +0800",
+      "leader_of_the_pack": "2022-10-26 17:57:48 +0800",
+      "so_i_got_that_going_for_me": "2022-10-26 17:57:48 +0800",
+      "iceologer_shouldve_won": "2022-10-26 17:57:48 +0800",
+      "direct_fishing": "2022-10-26 17:57:47 +0800",
+      "llama_llama_duck_king": "2022-10-26 17:57:47 +0800",
+      "blistering_barnacles": "2022-10-26 17:57:47 +0800",
+      "fashion_statement": "2022-10-26 17:57:48 +0800",
+      "milkshroom": "2022-10-26 17:57:47 +0800",
+      "axeolotl": "2022-10-26 17:57:47 +0800",
+      "heavy_duty_caravan": "2022-10-26 17:57:47 +0800",
+      "swine_sailing": "2022-10-26 17:57:47 +0800",
+      "beeloons": "2022-10-26 17:57:47 +0800",
+      "treasure_hunter": "2022-10-26 17:57:47 +0800",
+      "follow_the_leader": "2022-10-26 17:57:47 +0800",
+      "birdkeeper": "2022-10-26 17:57:47 +0800",
+      "screaming_milk": "2022-10-26 17:57:47 +0800",
+      "honey_im_home": "2022-10-26 17:57:47 +0800",
+      "horse_armorer": "2022-10-26 17:57:48 +0800",
+      "not_the_bees": "2022-10-26 17:57:48 +0800",
+      "turtle_army": "2022-10-26 17:57:47 +0800",
+      "milk_does_your_body_good": "2022-10-26 17:57:47 +0800",
+      "shoe_shed": "2022-10-26 17:57:47 +0800",
+      "llama_festival": "2022-10-26 17:57:48 +0800",
+      "high_steaks": "2022-10-26 17:57:48 +0800",
+      "thanks_a_lotl": "2022-10-26 17:57:48 +0800",
+      "glow_and_behold": "2022-10-26 17:57:47 +0800",
+      "bacon": "2022-10-26 17:57:47 +0800",
+      "mushroom_scientist": "2022-10-26 17:57:47 +0800",
+      "pork_chop": "2022-10-26 17:57:48 +0800",
+      "what_a_piece_of_junk": "2022-10-26 17:57:47 +0800",
+      "mary_had_a_little_lamb": "2022-10-26 17:57:47 +0800",
+      "repopulation": "2022-10-26 17:57:47 +0800",
+      "whatever_floats_your_goat": "2022-10-26 17:57:47 +0800",
+      "bee_our_guest": "2022-10-26 17:57:47 +0800",
+      "someones_been_here_before": "2022-10-26 17:57:47 +0800",
+      "salmonella_poisoning": "2022-10-26 17:57:48 +0800",
+      "rabbit_season": "2022-10-26 17:57:47 +0800",
+      "have_a_shearful_day": "2022-10-26 17:57:47 +0800",
+      "so_good": "2022-10-26 17:57:47 +0800",
+      "goat_out_of_here": "2022-10-26 17:57:48 +0800",
+      "winnie_the_pooh": "2022-10-26 17:57:47 +0800",
+      "tropical_collection": "2022-10-26 17:57:47 +0800",
+      "fishy_business": "2022-10-26 17:57:48 +0800",
+      "feeding_the_chickens": "2022-10-26 17:57:48 +0800",
+      "grinding_nemo": "2022-10-26 17:57:48 +0800",
+      "going_down_the_rabbit_hole": "2022-10-26 17:57:47 +0800",
+      "axolotl_of_them": "2022-10-26 17:57:47 +0800",
+      "axolittle": "2022-10-26 17:57:47 +0800",
+      "sushi": "2022-10-26 17:57:48 +0800",
+      "which_came_first": "2022-10-26 17:57:47 +0800",
+      "artificial_selection": "2022-10-26 17:57:47 +0800",
+      "master_farrier": "2022-10-26 17:57:48 +0800",
+      "delicious_fish": "2022-10-26 17:57:47 +0800",
+      "wooly": "2022-10-26 17:57:48 +0800",
+      "are_we_there_yet": "2022-10-26 17:57:48 +0800",
+      "flashy_items": "2022-10-26 17:57:48 +0800",
+      "cephalight": "2022-10-26 17:57:47 +0800",
+      "fuzzy_feet": "2022-10-26 17:57:47 +0800",
+      "getting_into_a_stew": "2022-10-26 17:57:48 +0800",
+      "stay_calmer": "2022-10-26 17:57:47 +0800",
+      "poacher": "2022-10-26 17:57:47 +0800",
+      "overpopulation": "2022-10-26 17:57:48 +0800",
+      "the_cutest_predator": "2022-10-26 17:57:48 +0800",
+      "goat_simulator": "2022-10-26 17:57:47 +0800",
+      "is_it_a_bird": "2022-10-26 17:57:47 +0800",
+      "theyre_breeding_like_rabbits": "2022-10-26 17:57:47 +0800",
+      "cow_tipper": "2022-10-26 17:57:47 +0800",
+      "hive_mind": "2022-10-26 17:57:47 +0800",
+      "nest_quick": "2022-10-26 17:57:47 +0800",
+      "foxy_thievery": "2022-10-26 17:57:48 +0800",
+      "tickle_time": "2022-10-26 17:57:47 +0800",
+      "root": "2022-10-26 17:57:48 +0800",
+      "save_the_turtles": "2022-10-26 17:57:48 +0800",
+      "totally_not_an_afk_fisher": "2022-10-26 17:57:47 +0800",
+      "so_hungry_i_could_eat_a_horse": "2022-10-26 17:57:48 +0800",
+      "catching_nemo": "2022-10-26 17:57:47 +0800",
+      "in_a_hole_there_lived_a_rabbit": "2022-10-26 17:57:48 +0800",
+      "turtle_soldier": "2022-10-26 17:57:47 +0800",
+      "hey_look_mom": "2022-10-26 17:57:47 +0800",
+      "billy_the_kid": "2022-10-26 17:57:48 +0800",
+      "scuttler": "2022-10-26 17:57:47 +0800",
+      "what_does_the_fox_say": "2022-10-26 17:57:47 +0800",
+      "colorful_cavalry": "2022-10-26 17:57:47 +0800",
+      "sticky_situation": "2022-10-26 17:57:47 +0800",
+      "master_angler": "2022-10-26 17:57:47 +0800",
+      "lead_the_way": "2022-10-26 17:57:47 +0800",
+      "chatterbox": "2022-10-26 17:57:47 +0800",
+      "aquarium": "2022-10-26 17:57:47 +0800",
+      "feeling_sheepish": "2022-10-26 17:57:48 +0800",
+      "ya_like_jazz": "2022-10-26 17:57:47 +0800",
+      "lucky_charm": "2022-10-26 17:57:47 +0800",
+      "tactical_fishing": "2022-10-26 17:57:47 +0800",
+      "chicken_cooper": "2022-10-26 17:57:47 +0800",
+      "pig_slaughterer": "2022-10-26 17:57:47 +0800",
+      "you_lead_ill_follow": "2022-10-26 17:57:47 +0800",
+      "live_and_let_dye": "2022-10-26 17:57:47 +0800",
+      "when_pigs_used_to_fly": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/master_enchanter": {
+    "criteria": {
+      "unbreaking": "2022-10-26 17:57:47 +0800",
+      "mending": "2022-10-26 17:57:47 +0800"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/sailor_of_the_seven_seas": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/out_for_a_stroll": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:end/ring_of_the_end": {
+    "criteria": {
+      "ring_of_the_end": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/supersonic": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/farming_milestone": {
+    "criteria": {
+      "naturally_carved": "2022-10-26 17:57:48 +0800",
+      "natural_fertiliser": "2022-10-26 17:57:47 +0800",
+      "unmasked": "2022-10-26 17:57:47 +0800",
+      "scientific_inaccuracy": "2022-10-26 17:57:48 +0800",
+      "come_to_the_countryside": "2022-10-26 17:57:47 +0800",
+      "souperman": "2022-10-26 17:57:48 +0800",
+      "24_carrot_gold": "2022-10-26 17:57:47 +0800",
+      "whats_new_with_composting": "2022-10-26 17:57:47 +0800",
+      "full_stomach": "2022-10-26 17:57:47 +0800",
+      "one_course_meal": "2022-10-26 17:57:47 +0800",
+      "its_a_cactus": "2022-10-26 17:57:47 +0800",
+      "shrooms": "2022-10-26 17:57:47 +0800",
+      "ultra_hardcore": "2022-10-26 17:57:47 +0800",
+      "kelp_me": "2022-10-26 17:57:48 +0800",
+      "the_garbage_will_do": "2022-10-26 17:57:47 +0800",
+      "hay_there": "2022-10-26 17:57:48 +0800",
+      "bake_bread": "2022-10-26 17:57:47 +0800",
+      "spikey": "2022-10-26 17:57:47 +0800",
+      "the_melon_the_melon_the_melon": "2022-10-26 17:57:47 +0800",
+      "trimming_the_treetops": "2022-10-26 17:57:47 +0800",
+      "castaway": "2022-10-26 17:57:47 +0800",
+      "berry_nice": "2022-10-26 17:57:48 +0800",
+      "sugar_sugar": "2022-10-26 17:57:47 +0800",
+      "the_pie": "2022-10-26 17:57:47 +0800",
+      "the_lie": "2022-10-26 17:57:47 +0800",
+      "die_potato": "2022-10-26 17:57:47 +0800",
+      "undersea_gardener": "2022-10-26 17:57:48 +0800",
+      "not_today": "2022-10-26 17:57:47 +0800",
+      "squid_game": "2022-10-26 17:57:48 +0800",
+      "aquatic_biofuel": "2022-10-26 17:57:47 +0800",
+      "a_gluttonous_diet": "2022-10-26 17:57:47 +0800",
+      "combine_harvester": "2022-10-26 17:57:47 +0800",
+      "must_be_your_birthday": "2022-10-26 17:57:47 +0800",
+      "im_gonna_be_sick": "2022-10-26 17:57:48 +0800",
+      "its_where_nutella_comes_from": "2022-10-26 17:57:47 +0800",
+      "root": "2022-10-26 17:57:48 +0800",
+      "me_love_cookie": "2022-10-26 17:57:48 +0800",
+      "vegetarian": "2022-10-26 17:57:47 +0800",
+      "the_meloncholy_dane": "2022-10-26 17:57:48 +0800",
+      "a_seedy_place": "2022-10-26 17:57:47 +0800",
+      "write_your_thoughts": "2022-10-26 17:57:47 +0800",
+      "its_full_of_ink": "2022-10-26 17:57:48 +0800",
+      "yay_deadbush": "2022-10-26 17:57:47 +0800",
+      "pumpa_kungen": "2022-10-26 17:57:48 +0800",
+      "suspicious_looking_stew": "2022-10-26 17:57:48 +0800",
+      "an_amazing_story": "2022-10-26 17:57:48 +0800",
+      "mega_mushroom": "2022-10-26 17:57:47 +0800",
+      "care_for_the_environment": "2022-10-26 17:57:47 +0800",
+      "ecologist": "2022-10-26 17:57:48 +0800",
+      "foliage": "2022-10-26 17:57:48 +0800",
+      "a_balanced_diet": "2022-10-26 17:57:47 +0800",
+      "olaf": "2022-10-26 17:57:47 +0800",
+      "an_apple_a_day": "2022-10-26 17:57:48 +0800",
+      "disen_berry_berry_bad": "2022-10-26 17:57:47 +0800",
+      "meat_lovers": "2022-10-26 17:57:48 +0800",
+      "serious_dedication": "2022-10-26 17:57:48 +0800",
+      "bapple": "2022-10-26 17:57:47 +0800",
+      "mushroom_mushroom": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/i_like_trains": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/i_enjoy_long_walks_and_playing_minecraft": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/natural_sprinter": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:47 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/horse_training": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/bloodthirsty": {
+    "criteria": {
+      "trigger": "2022-10-26 17:57:48 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

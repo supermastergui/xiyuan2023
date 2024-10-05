@@ -1,0 +1,15 @@
+{
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-11-17 16:23:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-11-17 16:24:05 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
+}

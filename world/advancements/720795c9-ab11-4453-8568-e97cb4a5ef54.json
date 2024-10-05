@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-04-18 21:41:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_forest": "2022-04-18 21:41:46 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

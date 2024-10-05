@@ -1,0 +1,11 @@
+{
+  "port": 25565,
+  "maxPlayers": 10,
+  "GameMode": "creative",
+  "motd": "XiYuan2023-CQN2022 1.19.2 Fabric",
+  "UseUPnP": false,
+  "AllowCommands": true,
+  "OnlineMode": false,
+  "EnablePvP": true,
+  "CopyToClipboard": true
+}

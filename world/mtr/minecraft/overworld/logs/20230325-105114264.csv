@@ -1,0 +1,173 @@
+Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Data
+"2023-03-25T11:12:11.254+08:00","CQN2022","1c6d7033-5219-3e59-ba1e-34d95c9c908a","mtr.data.Depot","[2328410241442667468]","浦东车场","","DELETE","{
+  ""id"": 2328410241442667468,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": ""浦东车场"",
+  ""color"": 8161819,
+  ""x_min"": -543,
+  ""z_min"": -549,
+  ""x_max"": -494,
+  ""z_max"": -538,
+  ""route_ids"": [],
+  ""use_real_time"": false,
+  ""repeat_infinitely"": false,
+  ""cruising_altitude"": 256,
+  ""frequencies"": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  ""departures"": []
+}","{}"
+"2023-03-25T11:12:15.977+08:00","CQN2022","1c6d7033-5219-3e59-ba1e-34d95c9c908a","mtr.data.Depot","[5379300876841689325]","高速铁路车场","","DELETE","{
+  ""id"": 5379300876841689325,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": ""高速铁路车场"",
+  ""color"": 15465028,
+  ""x_min"": 691,
+  ""z_min"": 473,
+  ""x_max"": 804,
+  ""z_max"": 523,
+  ""route_ids"": [],
+  ""use_real_time"": false,
+  ""repeat_infinitely"": false,
+  ""cruising_altitude"": 256,
+  ""frequencies"": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  ""departures"": []
+}","{}"
+"2023-03-25T11:12:18.139+08:00","CQN2022","1c6d7033-5219-3e59-ba1e-34d95c9c908a","mtr.data.Depot","[-2082465905749684817]","未命名","","DELETE","{
+  ""id"": -2082465905749684817,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": ""未命名"",
+  ""color"": 13810876,
+  ""x_min"": 684,
+  ""z_min"": 462,
+  ""x_max"": 868,
+  ""z_max"": 538,
+  ""route_ids"": [
+    -6817895837979294549
+  ],
+  ""use_real_time"": false,
+  ""repeat_infinitely"": false,
+  ""cruising_altitude"": 256,
+  ""frequencies"": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  ""departures"": []
+}","{}"
+"2023-03-25T11:12:26.155+08:00","CQN2022","1c6d7033-5219-3e59-ba1e-34d95c9c908a","mtr.data.Station","[2932166015918065889]","通航","","DELETE","{
+  ""id"": 2932166015918065889,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": ""通航"",
+  ""color"": 15207556,
+  ""x_min"": -65,
+  ""z_min"": -243,
+  ""x_max"": -54,
+  ""z_max"": -212,
+  ""zone"": 0,
+  ""exits"": {}
+}","{}"
+"2023-03-25T11:12:35.018+08:00","CQN2022","1c6d7033-5219-3e59-ba1e-34d95c9c908a","mtr.data.Station","[9102430891526083049]","浦东机场","","DELETE","{
+  ""id"": 9102430891526083049,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": ""浦东机场"",
+  ""color"": 5870004,
+  ""x_min"": -628,
+  ""z_min"": -564,
+  ""x_max"": -497,
+  ""z_max"": -537,
+  ""zone"": 0,
+  ""exits"": {}
+}","{}"
+"2023-03-25T11:13:08.248+08:00","CQN2022","1c6d7033-5219-3e59-ba1e-34d95c9c908a","mtr.block.BlockNode","","","(315, 93, -158)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2023-03-25T11:14:37.005+08:00","CQN2022","1c6d7033-5219-3e59-ba1e-34d95c9c908a","mtr.data.Route","[-6817895837979294549]","西苑塘水高铁线","","DELETE","{
+  ""id"": -6817895837979294549,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": ""西苑塘水高铁线"",
+  ""color"": 16358523,
+  ""platform_ids"": [
+    7179549324565414584,
+    6992989028691221447
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ],
+  ""route_type"": ""HIGH_SPEED"",
+  ""is_light_rail_route"": false,
+  ""is_route_hidden"": true,
+  ""disable_next_station_announcements"": false,
+  ""light_rail_route_number"": """",
+  ""circular_state"": ""NONE""
+}","{}"

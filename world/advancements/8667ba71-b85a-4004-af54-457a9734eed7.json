@@ -1,0 +1,16 @@
+{
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-04-05 12:41:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2022-04-05 12:41:20 +0800",
+      "minecraft:windswept_hills": "2022-04-08 21:43:51 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}
